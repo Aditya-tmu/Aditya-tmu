@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya
 
-<!--
-**Aditya-tmu/Aditya-tmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Full Stack Developer | Builder  
 
-Here are some ideas to get you started:
+💡 I build real-world applications that solve actual problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+- 🚀 Currently working on: SkillNest (Student Marketplace)
+- 🧠 Learning: System Design & Scalable Backend
+- ⚡ Focus: Building real-world impactful projects
+
+---
+
+## 🛠 Tech Stack
+- 💻 Languages: Python, JavaScript, Java  
+- 🌐 Frontend: React, HTML, CSS  
+- ⚙️ Backend: Node.js, Django  
+- 🗄 Database: PostgreSQL, Firebase  
+
+---
+
+## 🚀 Featured Projects
+- 🔹 SkillNest – Student marketplace platform  
+- 🔹 Invoice Generator – Billing with PDF + UPI QR  
+- 🔹 Student-Professor App – Chat + Video  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Aditya-tmu&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/aditya-kumar-835068277)
