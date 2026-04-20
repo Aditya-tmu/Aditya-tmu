@@ -1,454 +1,335 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              ADITYA KUMAR · GITHUB PROFILE README v3.0            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--           ADITYA KUMAR · GITHUB PROFILE README · v4.0              -->
+<!--              ◈ MAXIMUM FUTURISTIC EDITION ◈                        -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
 <div align="center">
-
-<!-- ░░ TOP ACCENT LINE ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a2e,100:00f5ff&height=4&section=header" width="100%"/>
-
-<!-- ░░ HERO BANNER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:050d1a,70:0a1f35,100:00f5ff&height=230&section=header&text=ADITYA%20KUMAR&fontSize=70&fontColor=00f5ff&fontAlignY=42&desc=◈%20Full%20Stack%20Developer%20%20%7C%20%20CSE%20Student%20%20%7C%20%20Builder%20%20%7C%20%20Problem%20Solver%20◈&descColor=4dd9f0&descSize=16&descAlignY=64&animation=fadeIn" width="100%"/>
-
+<!-- ══════════════════════════════════════════════ -->
+<!--  ANIMATED HERO BANNER                         -->
+<!-- ══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020a14,60:051828,100:00f5ff&height=280&section=header&text=ADITYA%20KUMAR&fontSize=75&fontColor=00f5ff&fontAlignY=40&desc=◈%20FULL%20STACK%20DEVELOPER%20%20·%20%20ANDROID%20ENGINEER%20%20·%20%20AI%20BUILDER%20◈&descColor=38d9f5&descSize=17&descAlignY=60&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
+<!-- ANIMATED ROBOT GIF via readme-jokes/assets — GitHub allowlisted source -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 <br/>
-
-<!-- ░░ TYPING SVG — herokuapp (GitHub-safe) ░░ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=⚡+Full+Stack+Dev+%7C+Django+·+React+·+Node.js;🤖+AI+Integration+%7C+Google+Gemini+API;📱+Android+Dev+%7C+Kotlin+%7C+Vanaspati+App;🚀+Shipping+→+SkillNest+Student+Marketplace;🌿+Plant+ID+App+with+Hindi+%26+English+Support;💡+I+build+things+that+solve+real+problems.)](https://github.com/Aditya-tmu)
-
-<br/><br/>
-
-<!-- ░░ BADGE ROW ░░ -->
-<img src="https://komarev.com/ghpvc/?username=Aditya-tmu&label=◈+PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=050d1a"/>
+<!-- ══════════════════════════════════════════════ -->
+<!--  TYPING SVG  (herokuapp — GitHub-safe)        -->
+<!-- ══════════════════════════════════════════════ -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=⚡+Full+Stack+Dev+%7C+Django+·+React+·+Node.js;🤖+AI+Integration+%7C+Google+Gemini+API;📱+Android+Dev+%7C+Kotlin+%7C+Vanaspati+App;🚀+Shipping+→+SkillNest+Student+Marketplace;🌿+Plant+ID+App+·+Hindi+%26+English+Support;💡+I+build+things+that+solve+real+problems.)
+<br/>
+<!-- ══════════════════════════════════════════════ -->
+<!--  STATUS BADGES                                -->
+<!-- ══════════════════════════════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=Aditya-tmu&label=◈+PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=020a14"/>
 &nbsp;
 <a href="https://github.com/Aditya-tmu?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aditya-tmu?label=◈+FOLLOWERS&style=for-the-badge&color=00f5ff&labelColor=050d1a"/>
+  <img src="https://img.shields.io/github/followers/Aditya-tmu?label=◈+FOLLOWERS&style=for-the-badge&color=00f5ff&labelColor=020a14"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/◈_STATUS-OPEN%20TO%20WORK-39ff14?style=for-the-badge&labelColor=050d1a"/>
+<img src="https://img.shields.io/badge/◈_STATUS-OPEN%20TO%20WORK-39ff14?style=for-the-badge&labelColor=020a14"/>
 &nbsp;
-<img src="https://img.shields.io/badge/◈_LOCATION-MORADABAD%2C%20IN-00f5ff?style=for-the-badge&labelColor=050d1a"/>
-
+<img src="https://img.shields.io/badge/◈_BASED-INDIA%20🇮🇳-00f5ff?style=for-the-badge&labelColor=020a14"/>
 <br/><br/>
-
+<!-- ══════════════════════════════════════════════ -->
+<!--  ANIMATED DIVIDER                             -->
+<!-- ══════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
-
 ---
-
-## `[01]` ◈ SYSTEM PROFILE
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+`[01]` ◈ OPERATOR PROFILE
 ```yaml
-╔══════════════════════════════════════════════════════════════════════╗
-║                        [ OPERATOR PROFILE ]                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   name         :  Aditya Kumar                                       ║
-║   handle       :  @Aditya-tmu                                        ║
-║   role         :  Full Stack Developer  ·  Android Dev               ║
-║   institute    :  Teerthanker Mahaveer University (TMU)              ║
-║   degree       :  B.Tech — Computer Science Engineering              ║
-║   location     :  Moradabad, Uttar Pradesh, India  🇮🇳              ║
-║   status       :  🟢  ONLINE  ·  OPEN TO OPPORTUNITIES              ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   mission      :  Build real-world apps that solve actual problems   ║
-║   flagship     :  SkillNest  — AI Student Marketplace                ║
-║   latest       :  Vanaspati — Android Plant ID App (Kotlin)          ║
-║   learning     :  System Design  ·  Microservices  ·  Redis          ║
-║   open to      :  Internships  ·  Collabs  ·  Open Source            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║           [ SYSTEM IDENTIFICATION ]          ║
+╠══════════════════════════════════════════════╣
+║  name      :  Aditya Kumar                   ║
+║  handle    :  @Aditya-tmu                    ║
+║  role      :  Full Stack + Android Dev       ║
+║  institute :  TMU — CSE Engineering          ║
+║  location  :  Moradabad, UP, India  🇮🇳      ║
+║  status    :  🟢 ONLINE · OPEN TO WORK       ║
+╠══════════════════════════════════════════════╣
+║  flagship  :  SkillNest (AI Marketplace)     ║
+║  latest    :  Vanaspati (Android · Kotlin)   ║
+║  learning  :  System Design · Microservices  ║
+║  open to   :  Internships · Collabs · OSS    ║
+╚══════════════════════════════════════════════╝
 ```
-
-<br/>
-
+<br clear="right"/>
 ---
-
-## `[02]` ◈ TECH ARSENAL
-
 <div align="center">
-
-### `// LANGUAGES`
-![Python](https://img.shields.io/badge/Python-050d1a?style=for-the-badge&logo=python&logoColor=00f5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-050d1a?style=for-the-badge&logo=javascript&logoColor=00f5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-050d1a?style=for-the-badge&logo=typescript&logoColor=00f5ff)
-![Kotlin](https://img.shields.io/badge/Kotlin-050d1a?style=for-the-badge&logo=kotlin&logoColor=00f5ff)
-![Java](https://img.shields.io/badge/Java-050d1a?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
-
-### `// FRONTEND & MOBILE`
-![React.js](https://img.shields.io/badge/React.js-050d1a?style=for-the-badge&logo=react&logoColor=00f5ff)
-![Android](https://img.shields.io/badge/Android-050d1a?style=for-the-badge&logo=android&logoColor=00f5ff)
-![HTML5](https://img.shields.io/badge/HTML5-050d1a?style=for-the-badge&logo=html5&logoColor=00f5ff)
-![CSS3](https://img.shields.io/badge/CSS3-050d1a?style=for-the-badge&logo=css3&logoColor=00f5ff)
-![Vite](https://img.shields.io/badge/Vite-050d1a?style=for-the-badge&logo=vite&logoColor=00f5ff)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-050d1a?style=for-the-badge&logo=framer&logoColor=00f5ff)
-![Three.js](https://img.shields.io/badge/Three.js-050d1a?style=for-the-badge&logo=threedotjs&logoColor=00f5ff)
-
-### `// BACKEND`
-![Django](https://img.shields.io/badge/Django-050d1a?style=for-the-badge&logo=django&logoColor=00f5ff)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-050d1a?style=for-the-badge&logo=django&logoColor=00f5ff)
-![Node.js](https://img.shields.io/badge/Node.js-050d1a?style=for-the-badge&logo=nodedotjs&logoColor=00f5ff)
-![Express.js](https://img.shields.io/badge/Express.js-050d1a?style=for-the-badge&logo=express&logoColor=00f5ff)
-![WebSockets](https://img.shields.io/badge/WebSockets-050d1a?style=for-the-badge&logo=socketdotio&logoColor=00f5ff)
-![Daphne](https://img.shields.io/badge/Daphne_ASGI-050d1a?style=for-the-badge&logo=django&logoColor=00f5ff)
-
-### `// DATABASE`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050d1a?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-050d1a?style=for-the-badge&logo=mongodb&logoColor=00f5ff)
-![MySQL](https://img.shields.io/badge/MySQL-050d1a?style=for-the-badge&logo=mysql&logoColor=00f5ff)
-![Firebase](https://img.shields.io/badge/Firebase-050d1a?style=for-the-badge&logo=firebase&logoColor=00f5ff)
-
-### `// AI · TOOLS · DEVOPS`
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-050d1a?style=for-the-badge&logo=google&logoColor=00f5ff)
-![Git](https://img.shields.io/badge/Git-050d1a?style=for-the-badge&logo=git&logoColor=00f5ff)
-![GitHub](https://img.shields.io/badge/GitHub-050d1a?style=for-the-badge&logo=github&logoColor=00f5ff)
-![Android Studio](https://img.shields.io/badge/Android_Studio-050d1a?style=for-the-badge&logo=androidstudio&logoColor=00f5ff)
-![VS Code](https://img.shields.io/badge/VS_Code-050d1a?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
-![Postman](https://img.shields.io/badge/Postman-050d1a?style=for-the-badge&logo=postman&logoColor=00f5ff)
-![Linux](https://img.shields.io/badge/Linux-050d1a?style=for-the-badge&logo=linux&logoColor=00f5ff)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
-
-<br/>
-
 ---
-
-## `[03]` ◈ MISSION FILES `// PROJECTS`
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║   ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗        ║
-║   ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝        ║
-║   ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║           ║
-║   ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║           ║
-║   ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║           ║
-║   ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝           ║
-║                    [ 3 ACTIVE DEPLOYMENT UNITS ]                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<table>
-<tr>
-
-<!-- PROJECT 1: SKILLNEST -->
-<td width="50%" valign="top">
-
+`[02]` ◈ TECH ARSENAL
 <div align="center">
-
-### 🧠 [SkillNest](https://github.com/Aditya-tmu/SkillNest)
-`[ FLAGSHIP · FULL-STACK · AI-POWERED ]`
-
-</div>
-
-> *AI-Powered Student Skill Marketplace & Networking Platform*
-
-A cutting-edge platform where students **showcase skills, earn AI verification badges, book peer help-sessions** and build professional networks — all in one ecosystem.
-
-**`// CORE SYSTEMS`**
-
-| Module | Description |
-|--------|-------------|
-| 🤖 AI Skill Engine | Google Gemini generates MCQs; pass → earn **Verified** badge |
-| 📍 Geo-Discovery | Haversine formula for location-based peer matching |
-| ⚡ Live Messaging | Django Channels + WebSockets · zero-lag real-time chat |
-| 📅 Marketplace | Full booking request / accept / reject / review workflow |
-| 🔔 Notifications | Real-time smart alerts for every platform event |
-| ⭐ Rating System | Post-session feedback & reputation scoring |
-| 🌐 REST API | Full DRF-powered API with JWT authentication |
-
-**`// STACK`**
-
-![Django](https://img.shields.io/badge/Django-050d1a?style=flat-square&logo=django&logoColor=00f5ff)
-![React](https://img.shields.io/badge/React-050d1a?style=flat-square&logo=react&logoColor=00f5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050d1a?style=flat-square&logo=postgresql&logoColor=00f5ff)
-![WebSockets](https://img.shields.io/badge/WebSockets-050d1a?style=flat-square&logo=socketdotio&logoColor=00f5ff)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-050d1a?style=flat-square&logo=google&logoColor=00f5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-050d1a?style=flat-square&logo=typescript&logoColor=00f5ff)
-![DRF](https://img.shields.io/badge/DRF-050d1a?style=flat-square&logo=django&logoColor=00f5ff)
-![Python](https://img.shields.io/badge/Python-050d1a?style=flat-square&logo=python&logoColor=00f5ff)
-
+<!-- ANIMATED TECH ICONS GRID -->
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,java&theme=dark&perline=5"/>
 <br/>
-
-[![View Repo](https://img.shields.io/badge/◈_OPEN_REPOSITORY-050d1a?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Aditya-tmu/SkillNest)
-
-</td>
-
-<!-- PROJECT 2: INVOICE GENERATOR -->
-<td width="50%" valign="top">
-
+<img src="https://skillicons.dev/icons?i=react,html,css,vite,threejs&theme=dark&perline=5"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,firebase&theme=dark&perline=5"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&perline=5"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,postman&theme=dark&perline=6"/>
+</div>
+<br/>
+`// TECH STACK LABELS`
 <div align="center">
-
-### 🧾 [Invoice Generator](https://github.com/Aditya-tmu/invoice-generator)
-`[ DEPLOYED · FULL-STACK · PRODUCTION-READY ]`
-
+LANGUAGES
+![Python](https://img.shields.io/badge/Python-020a14?style=for-the-badge&logo=python&logoColor=00f5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-020a14?style=for-the-badge&logo=javascript&logoColor=00f5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-020a14?style=for-the-badge&logo=typescript&logoColor=00f5ff)
+![Kotlin](https://img.shields.io/badge/Kotlin-020a14?style=for-the-badge&logo=kotlin&logoColor=00f5ff)
+![Java](https://img.shields.io/badge/Java-020a14?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
+FRONTEND & MOBILE
+![React](https://img.shields.io/badge/React.js-020a14?style=for-the-badge&logo=react&logoColor=00f5ff)
+![Android](https://img.shields.io/badge/Android-020a14?style=for-the-badge&logo=android&logoColor=00f5ff)
+![HTML5](https://img.shields.io/badge/HTML5-020a14?style=for-the-badge&logo=html5&logoColor=00f5ff)
+![CSS3](https://img.shields.io/badge/CSS3-020a14?style=for-the-badge&logo=css3&logoColor=00f5ff)
+![Vite](https://img.shields.io/badge/Vite-020a14?style=for-the-badge&logo=vite&logoColor=00f5ff)
+![Three.js](https://img.shields.io/badge/Three.js-020a14?style=for-the-badge&logo=threedotjs&logoColor=00f5ff)
+BACKEND
+![Django](https://img.shields.io/badge/Django-020a14?style=for-the-badge&logo=django&logoColor=00f5ff)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-020a14?style=for-the-badge&logo=django&logoColor=00f5ff)
+![Node.js](https://img.shields.io/badge/Node.js-020a14?style=for-the-badge&logo=nodedotjs&logoColor=00f5ff)
+![Express](https://img.shields.io/badge/Express.js-020a14?style=for-the-badge&logo=express&logoColor=00f5ff)
+![WebSockets](https://img.shields.io/badge/WebSockets-020a14?style=for-the-badge&logo=socketdotio&logoColor=00f5ff)
+DATABASE
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020a14?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-020a14?style=for-the-badge&logo=mongodb&logoColor=00f5ff)
+![MySQL](https://img.shields.io/badge/MySQL-020a14?style=for-the-badge&logo=mysql&logoColor=00f5ff)
+![Firebase](https://img.shields.io/badge/Firebase-020a14?style=for-the-badge&logo=firebase&logoColor=00f5ff)
+AI · TOOLS · DEVOPS
+![Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-020a14?style=for-the-badge&logo=google&logoColor=00f5ff)
+![Git](https://img.shields.io/badge/Git-020a14?style=for-the-badge&logo=git&logoColor=00f5ff)
+![GitHub](https://img.shields.io/badge/GitHub-020a14?style=for-the-badge&logo=github&logoColor=00f5ff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-020a14?style=for-the-badge&logo=androidstudio&logoColor=00f5ff)
+![VS Code](https://img.shields.io/badge/VS_Code-020a14?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
+![Postman](https://img.shields.io/badge/Postman-020a14?style=for-the-badge&logo=postman&logoColor=00f5ff)
+![Linux](https://img.shields.io/badge/Linux-020a14?style=for-the-badge&logo=linux&logoColor=00f5ff)
 </div>
-
-> *Full-Stack Billing & Invoicing Solution for Freelancers & SMBs*
-
-A production-ready invoicing tool that empowers freelancers and small businesses to generate professional invoices, export PDFs, and collect payments — all in seconds.
-
-**`// CORE SYSTEMS`**
-
-| Module | Description |
-|--------|-------------|
-| 📄 Real-time Preview | PDF updates live as you type |
-| 📱 UPI QR Code | Auto-generates QR with pre-filled payment amount |
-| 📊 Excel Export | Raw data export via ExcelJS |
-| 💬 WhatsApp Share | Send invoice directly to clients |
-| 🖼️ Branding | Custom logo + authorized signature upload |
-| 📱 Responsive UI | Mobile-first React + Bootstrap design |
-| 🔧 REST Backend | Node.js + Express handles all file generation |
-
-**`// STACK`**
-
-![React](https://img.shields.io/badge/React-050d1a?style=flat-square&logo=react&logoColor=00f5ff)
-![Node.js](https://img.shields.io/badge/Node.js-050d1a?style=flat-square&logo=nodedotjs&logoColor=00f5ff)
-![Express.js](https://img.shields.io/badge/Express.js-050d1a?style=flat-square&logo=express&logoColor=00f5ff)
-![Vite](https://img.shields.io/badge/Vite-050d1a?style=flat-square&logo=vite&logoColor=00f5ff)
-![PDFKit](https://img.shields.io/badge/PDFKit-050d1a?style=flat-square&logoColor=00f5ff)
-![ExcelJS](https://img.shields.io/badge/ExcelJS-050d1a?style=flat-square&logoColor=00f5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-050d1a?style=flat-square&logo=javascript&logoColor=00f5ff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-050d1a?style=flat-square&logo=bootstrap&logoColor=00f5ff)
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/◈_OPEN_REPOSITORY-050d1a?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Aditya-tmu/invoice-generator)
-
-</td>
-</tr>
-
-<tr>
-
-<!-- PROJECT 3: VANASPATI -->
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🌿 [Vanaspati](https://github.com/Aditya-tmu/Vanaspati)
-`[ ANDROID · KOTLIN · BILINGUAL ]`
-
-</div>
-
-> *AI-Powered Android Plant Identification & Information App*
-
-A native Android application where users type a plant name **or upload a photo** and instantly receive a detailed botanical overview — with full support for both **Hindi** and **English** output.
-
-**`// CORE SYSTEMS`**
-
-| Module | Description |
-|--------|-------------|
-| 🔍 Name Search | Type any plant name to fetch full details instantly |
-| 📷 Photo Upload | Upload a plant image for visual identification |
-| 🌱 Plant Details | Scientific name, photo, growth season & atmosphere |
-| 🌏 Bilingual | Full Hindi 🇮🇳 and English 🇬🇧 language support |
-| 🔑 API Integration | External plant data API with key-based auth |
-| 📱 Native Android | Built with Kotlin for smooth, native performance |
-| 🎨 Clean UI | Intuitive, minimal Android interface |
-
-**`// STACK`**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-050d1a?style=flat-square&logo=kotlin&logoColor=00f5ff)
-![Android](https://img.shields.io/badge/Android-050d1a?style=flat-square&logo=android&logoColor=00f5ff)
-![Android Studio](https://img.shields.io/badge/Android_Studio-050d1a?style=flat-square&logo=androidstudio&logoColor=00f5ff)
-![Gradle](https://img.shields.io/badge/Gradle-050d1a?style=flat-square&logo=gradle&logoColor=00f5ff)
-![REST API](https://img.shields.io/badge/REST_API-050d1a?style=flat-square&logoColor=00f5ff)
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/◈_OPEN_REPOSITORY-050d1a?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Aditya-tmu/Vanaspati)
-
-</td>
-
-<!-- PROJECT 4: MORE REPOS -->
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🔭 [All Repositories](https://github.com/Aditya-tmu?tab=repositories)
-`[ 8 REPOS · GROWING ]`
-
-</div>
-
-> *Experiments · Learning · Open Source*
-
-The full collection of projects, experiments, and engineering exercises spanning web, mobile, AI, and backend systems.
-
-**`// WHAT'S INSIDE`**
-
-| Area | Details |
-|------|---------|
-| 🐍 Python | Automation, scripting & backend tools |
-| 🌐 Web | Full-stack web development projects |
-| 📱 Mobile | Native Android with Kotlin |
-| 🔧 APIs | REST API design & backend experiments |
-| 🗄️ Database | PostgreSQL · MongoDB · MySQL · Firebase |
-| 📚 CS Fundamentals | DSA practice & algorithms |
-| 🤖 AI Integration | Gemini API · Vision AI · LLM workflows |
-
-<br/>
-
-[![All Repos](https://img.shields.io/badge/◈_ALL_REPOSITORIES-050d1a?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Aditya-tmu?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ---
-
-## `[04]` ◈ SYSTEM DIAGNOSTICS `// GITHUB STATS`
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│   [ RUNNING SYSTEM DIAGNOSTICS... ]  ████████████████████  100% ✓  │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-tmu&show_icons=true&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=4dd9f0&bg_color=050d1a&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+ADITYA%27S+STATS"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+---
+`[03]` ◈ MISSION FILES `// PROJECTS`
+<div align="center">
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗     ║
+║  ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝     ║
+║  ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║        ║
+║  ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║        ║
+║  ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║        ║
+║  ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝        ║
+║                 [ 3 ACTIVE DEPLOYMENT UNITS ]                    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+</div>
+<br/>
+<!-- PROJECT 1 — SKILLNEST -->
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360"/>
+🧠 SkillNest — `FLAGSHIP · AI-POWERED`
+> *Student Skill Marketplace & Networking Platform*
+Module	Description
+🤖 AI Skill Engine	Google Gemini auto-generates MCQs → Verified badge on pass
+📍 Geo-Discovery	Haversine formula for location-based peer matching
+⚡ Live Messaging	Django Channels + WebSockets · real-time zero-lag chat
+📅 Marketplace	Full booking request / accept / reject / review workflow
+🔔 Notifications	Smart real-time alerts for every platform event
+⭐ Ratings	Post-session feedback & reputation scoring system
+![Django](https://img.shields.io/badge/Django-020a14?style=flat-square&logo=django&logoColor=00f5ff)
+![React](https://img.shields.io/badge/React-020a14?style=flat-square&logo=react&logoColor=00f5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020a14?style=flat-square&logo=postgresql&logoColor=00f5ff)
+![WebSockets](https://img.shields.io/badge/WebSockets-020a14?style=flat-square&logo=socketdotio&logoColor=00f5ff)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-020a14?style=flat-square&logo=google&logoColor=00f5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-020a14?style=flat-square&logo=typescript&logoColor=00f5ff)
+![Open](https://img.shields.io/badge/◈_OPEN_REPO-020a14?style=for-the-badge&logo=github&logoColor=00f5ff)
+<br clear="left"/>
+---
+<!-- PROJECT 2 — INVOICE GENERATOR -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="360"/>
+🧾 Invoice Generator — `DEPLOYED · PRODUCTION`
+> *Full-Stack Billing & Invoicing Solution*
+Module	Description
+📄 Real-time PDF	Preview updates live as you fill in details
+📱 UPI QR Code	Dynamic QR auto-fills payment amount on scan
+📊 Excel Export	Raw invoice data export via ExcelJS
+💬 WhatsApp Share	Send invoice links directly to clients
+🖼️ White-label	Custom logo + authorized signature upload
+📱 Mobile-first UI	Fully responsive React + Bootstrap design
+![React](https://img.shields.io/badge/React-020a14?style=flat-square&logo=react&logoColor=00f5ff)
+![Node.js](https://img.shields.io/badge/Node.js-020a14?style=flat-square&logo=nodedotjs&logoColor=00f5ff)
+![Express](https://img.shields.io/badge/Express-020a14?style=flat-square&logo=express&logoColor=00f5ff)
+![Vite](https://img.shields.io/badge/Vite-020a14?style=flat-square&logo=vite&logoColor=00f5ff)
+![PDFKit](https://img.shields.io/badge/PDFKit-020a14?style=flat-square&logoColor=00f5ff)
+![ExcelJS](https://img.shields.io/badge/ExcelJS-020a14?style=flat-square&logoColor=00f5ff)
+![Open](https://img.shields.io/badge/◈_OPEN_REPO-020a14?style=for-the-badge&logo=github&logoColor=00f5ff)
+<br clear="right"/>
+---
+<!-- PROJECT 3 — VANASPATI -->
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="360"/>
+🌿 Vanaspati — `ANDROID · KOTLIN · BILINGUAL`
+> *AI-Powered Native Android Plant Identification App*
+Module	Description
+🔍 Name Search	Type any plant name → get full botanical details
+📷 Photo Upload	Upload image for instant visual plant identification
+🌱 Plant Details	Scientific name, photo, growth season & atmosphere
+🌏 Bilingual	Full Hindi 🇮🇳 + English 🇬🇧 language support
+🔑 API Integration	External plant data API with key-based authentication
+📱 Native Android	Built with Kotlin for smooth, native-feel performance
+![Kotlin](https://img.shields.io/badge/Kotlin-020a14?style=flat-square&logo=kotlin&logoColor=00f5ff)
+![Android](https://img.shields.io/badge/Android-020a14?style=flat-square&logo=android&logoColor=00f5ff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-020a14?style=flat-square&logo=androidstudio&logoColor=00f5ff)
+![Gradle](https://img.shields.io/badge/Gradle-020a14?style=flat-square&logo=gradle&logoColor=00f5ff)
+![REST API](https://img.shields.io/badge/REST_API-020a14?style=flat-square&logoColor=00f5ff)
+![Open](https://img.shields.io/badge/◈_OPEN_REPO-020a14?style=for-the-badge&logo=github&logoColor=00f5ff)
+<br clear="left"/>
+---
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+---
+`[04]` ◈ SYSTEM DIAGNOSTICS `// GITHUB STATS`
+<div align="center">
+<!-- ANIMATED CODING GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
+<br/><br/>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [ RUNNING DIAGNOSTICS... ]  ████████████████████  100%  ✓     │
+└─────────────────────────────────────────────────────────────────┘
+```
+<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-tmu&show_icons=true&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=38d9f5&bg_color=020a14&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+ADITYA%27S+STATS"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tmu&layout=compact&theme=transparent&hide_border=true&title_color=00f5ff&text_color=4dd9f0&bg_color=050d1a&langs_count=8&custom_title=◈+TOP+LANGUAGES"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tmu&layout=compact&theme=transparent&hide_border=true&title_color=00f5ff&text_color=38d9f5&bg_color=020a14&langs_count=8&custom_title=◈+TOP+LANGUAGES"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tmu&theme=transparent&hide_border=true&ring=00f5ff&fire=39ff14&currStreakLabel=00f5ff&sideLabels=38d9f5&dates=38d9f5&background=020a14&sideNums=00f5ff&currStreakNum=00f5ff"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-tmu&bg_color=020a14&color=00f5ff&line=00f5ff&point=39ff14&area=true&area_color=051828&hide_border=true&custom_title=◈+CONTRIBUTION+MATRIX" width="97%"/>
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tmu&theme=transparent&hide_border=true&ring=00f5ff&fire=39ff14&currStreakLabel=00f5ff&sideLabels=4dd9f0&dates=4dd9f0&background=050d1a&sideNums=00f5ff&currStreakNum=00f5ff" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-tmu&bg_color=050d1a&color=00f5ff&line=00f5ff&point=39ff14&area=true&area_color=0a1f35&hide_border=true&custom_title=◈+CONTRIBUTION+MATRIX" width="97%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
 ---
-
-## `[05]` ◈ ACHIEVEMENT NODES `// TROPHIES`
-
+`[05]` ◈ ACHIEVEMENT NODES `// TROPHIES`
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-tmu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400"/>
 <br/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-tmu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
 ---
-
-## `[06]` ◈ DEPLOYMENT TIMELINE `// JOURNEY`
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+---
+`[06]` ◈ CONTRIBUTION SNAKE `// ACTIVITY`
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+> ⚙️ **To activate the snake animation:** Go to your `Aditya-tmu` repo → **Actions** tab → **New workflow** → paste this:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{cron: "0 0 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: Aditya-tmu
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+---
+`[07]` ◈ DEPLOYMENT TIMELINE `// JOURNEY`
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+</div>
 ```
 ═══════════════════════════════════════════════════════════════════════
-  SYSTEM LOG  ·  ADITYA KUMAR  ·  MISSION HISTORY
+  MISSION LOG  ·  ADITYA KUMAR  ·  SYSTEM HISTORY
 ═══════════════════════════════════════════════════════════════════════
 
   ┌─ [2023] ──────────────────────────────────────────────────────────
-  │  BOOT SEQUENCE INITIATED
-  │  ► B.Tech CSE enrolled @ Teerthanker Mahaveer University
-  │  ► System initialized. All core modules online.
-  │  ► Languages loaded: Python · JavaScript · Java
+  │  🔵 BOOT SEQUENCE INITIATED
+  │  ► B.Tech CSE enrolled @ TMU Moradabad
+  │  ► Core modules loaded: Python · JavaScript · Java
+  │  ► System status: ✅ ONLINE
   │
   ├─ [2024 · Q1] ─────────────────────────────────────────────────────
-  │  FIRST DEPLOYMENT — Invoice Generator v1.0
+  │  🟢 DEPLOYMENT #1 — Invoice Generator
   │  ► Full-stack billing tool shipped to production
-  │  ► React + Node.js · PDF generation · UPI QR · WhatsApp
+  │  ► React + Node.js · PDF · UPI QR · WhatsApp
   │  ► Status: ✅ COMPLETE
   │
   ├─ [2024 · Q3] ─────────────────────────────────────────────────────
-  │  FLAGSHIP MISSION LAUNCHED — SkillNest Platform
+  │  🟡 FLAGSHIP LAUNCHED — SkillNest Platform
   │  ► AI-powered student marketplace initialized
   │  ► Django + React + WebSockets + Google Gemini AI
-  │  ► Real-time chat · Location discovery · Booking system
   │  ► Status: 🔄 ACTIVE · SCALING
   │
   ├─ [2025] ──────────────────────────────────────────────────────────
-  │  NEW MODULE DEPLOYED — Vanaspati (Android App)
-  │  ► Native Kotlin Android plant identification app
-  │  ► Search by name or photo · Hindi + English support
-  │  ► Scientific data · Growth season · Atmosphere info
+  │  🟢 MODULE DEPLOYED — Vanaspati (Android)
+  │  ► Native Kotlin Android plant ID app shipped
+  │  ► Hindi + English · Photo upload · Scientific data
   │  ► Status: 🔄 ACTIVE · IN PROGRESS
   │
   └─ [NOW] ───────────────────────────────────────────────────────────
-     ONLINE · LEARNING · BUILDING
-     ► Mastering: System Design · Microservices · Redis · AWS
-     ► Open to:   Internships · Collaborations · Open Source
-     ► Status:    🟢 ONLINE · OPEN TO OPPORTUNITIES
+     🟢 ONLINE · LEARNING · BUILDING
+     ► Mastering : System Design · Microservices · Redis
+     ► Open to   : Internships · Collaborations · Open Source
 
 ═══════════════════════════════════════════════════════════════════════
 ```
-
-<br/>
-
 ---
-
-## `[07]` ◈ CONTACT MATRIX `// REACH OUT`
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ESTABLISHING SECURE COMMUNICATION CHANNEL . . .                   ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  CONNECTION ESTABLISHED ✓   ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+---
+`[08]` ◈ CONTACT MATRIX `// REACH OUT`
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="350"/>
+<br/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ESTABLISHING SECURE COMMUNICATION CHANNEL . . . . . . . . ✓   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+<br/>
 <a href="mailto:hpaditya87857.contact@gmail.com">
-  <img src="https://img.shields.io/badge/◈_EMAIL-hpaditya87857.contact%40gmail.com-050d1a?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=050d1a"/>
+  <img src="https://img.shields.io/badge/◈_EMAIL-hpaditya87857.contact%40gmail.com-020a14?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=020a14"/>
 </a>
-
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/aditya-kumar-835068277/">
-  <img src="https://img.shields.io/badge/◈_LINKEDIN-Aditya%20Kumar-050d1a?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=050d1a"/>
+  <img src="https://img.shields.io/badge/◈_LINKEDIN-Aditya%20Kumar-020a14?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Aditya-tmu">
-  <img src="https://img.shields.io/badge/◈_GITHUB-Aditya--tmu-050d1a?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=050d1a"/>
+  <img src="https://img.shields.io/badge/◈_GITHUB-Aditya--tmu-020a14?style=for-the-badge&logo=github&logoColor=00f5ff"/>
 </a>
-
 <br/><br/>
-
 <a href="tel:+917505762707">
-  <img src="https://img.shields.io/badge/◈_PHONE-%2B91%207505762707-050d1a?style=for-the-badge&logo=whatsapp&logoColor=39ff14&labelColor=050d1a"/>
+  <img src="https://img.shields.io/badge/◈_PHONE-%2B91%207505762707-020a14?style=for-the-badge&logo=whatsapp&logoColor=39ff14"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1Wt6a3-izb-4QeD4pn-wPFrS_ATKxsFgS/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/◈_RESUME-Download%20PDF-050d1a?style=for-the-badge&logo=googledrive&logoColor=39ff14&labelColor=050d1a"/>
+  <img src="https://img.shields.io/badge/◈_RESUME-Download%20PDF-020a14?style=for-the-badge&logo=googledrive&logoColor=39ff14"/>
 </a>
-
-</div>
-
-<br/>
-
----
-
-## `[08]` ◈ TRANSMISSION LOG `// DEV QUOTE`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    ░░  "I build real-world applications that solve actual        ░░  ║
-║    ░░         problems."  —  Aditya Kumar  @Aditya-tmu           ░░  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,40:0d2137,80:050d1a,100:000000&height=130&section=footer&text=SYSTEM+OFFLINE&fontSize=18&fontColor=00f5ff&fontAlignY=68&animation=fadeIn" width="100%"/>
-
+<br/><br/>
+<!-- ANIMATED WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,40:051828,80:020a14,100:000000&height=140&section=footer&text=SYSTEM+OFFLINE&fontSize=20&fontColor=00f5ff&fontAlignY=68&animation=fadeIn" width="100%"/>
 </div>
