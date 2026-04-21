@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--           ADITYA KUMAR · GITHUB PROFILE README · v4.0              -->
+<!--           ADITYA KUMAR · GITHUB PROFILE README · v4.1              -->
 <!--              ◈ MAXIMUM FUTURISTIC EDITION ◈                        -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020a14,60:051828,100:00f5ff&height=280&section=header&text=ADITYA%20KUMAR&fontSize=75&fontColor=00f5ff&fontAlignY=40&desc=◈%20FULL%20STACK%20DEVELOPER%20%20·%20%20ANDROID%20ENGINEER%20%20·%20%20AI%20BUILDER%20◈&descColor=38d9f5&descSize=17&descAlignY=60&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
 
-<!-- ANIMATED ROBOT GIF via readme-jokes/assets — GitHub allowlisted source -->
+<!-- ANIMATED ROBOT GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
 <br/>
@@ -40,9 +40,6 @@
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER                             -->
-<!-- ══════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
@@ -85,7 +82,6 @@
 
 <div align="center">
 
-<!-- ANIMATED TECH ICONS GRID -->
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,java&theme=dark&perline=5"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=react,html,css,vite,threejs&theme=dark&perline=5"/>
@@ -96,13 +92,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,postman&theme=dark&perline=6"/>
 
-</div>
-
-<br/>
-
-### `// TECH STACK LABELS`
-
-<div align="center">
+<br/><br/>
 
 **LANGUAGES**
 
@@ -269,7 +259,6 @@
 
 <div align="center">
 
-<!-- ANIMATED CODING GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
 
 <br/><br/>
@@ -322,47 +311,29 @@
 
 <div align="center">
 
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [ SNAKE FEEDING ON CONTRIBUTIONS... ]  ████████████  LIVE ✓   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/snake.svg"/>
+  <img alt="Snake animation eating my contributions" width="100%"
+    src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/output/snake-dark.svg"/>
 </picture>
 
 </div>
-
-> ⚙️ **To activate the snake animation:** Go to your `Aditya-tmu` repo → **Actions** tab → **New workflow** → paste this:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Aditya-tmu
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
 ## `[07]` ◈ DEPLOYMENT TIMELINE `// JOURNEY`
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-
 </div>
 
 ```
@@ -452,7 +423,15 @@
 
 <br/><br/>
 
-<!-- ANIMATED WAVE FOOTER -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║    "I build real-world applications that solve actual            ║
+║           problems."  —  Aditya Kumar  @Aditya-tmu              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,40:051828,80:020a14,100:000000&height=140&section=footer&text=SYSTEM+OFFLINE&fontSize=20&fontColor=00f5ff&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
