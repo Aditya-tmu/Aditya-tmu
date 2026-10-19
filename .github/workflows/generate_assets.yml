@@ -25,11 +25,12 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install Pillow opencv-python-headless
+          pip install Pillow opencv-python-headless qrcode
 
       - name: Generate Profile Graphics
         run: |
           python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir assets
+          python scripts/generate_id_card.py
 
       - name: Commit and Push if Changed
         run: |

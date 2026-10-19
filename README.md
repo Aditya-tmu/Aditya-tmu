@@ -1,18 +1,20 @@
+<a id="top"></a>
+
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--           ADITYA KUMAR · GITHUB PROFILE README · v5.0              -->
-<!--          ◈ CODE-SYNTHESIZED CYBER OPERATOR EDITION ◈               -->
+<!--           ADITYA KUMAR · GITHUB PROFILE README · v5.5              -->
+<!--          ◈ HIGH-ENERGY REALISTIC ID BADGE & CYBER EDITION ◈        -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  ANIMATED HERO BANNER                         -->
+<!--  ENERGETIC HERO BANNER                         -->
 <!-- ══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020a14,60:051828,100:00f5ff&height=280&section=header&text=ADITYA%20KUMAR&fontSize=75&fontColor=00f5ff&fontAlignY=40&desc=◈%20FULL%20STACK%20ENGINEER%20%20·%20%20APPLIED%20AI%20BUILDER%20%20·%20%20SYSTEMS%20ARCHITECT%20◈&descColor=38d9f5&descSize=16&descAlignY=60&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a14,30:051828,65:00f5ff,85:39ff14,100:7928ca&height=220&section=header&text=⚡+ADITYA+KUMAR+⚡&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=◈+FULL-STACK+ENGINEER+·+APPLIED+AI+ARCHITECT+·+SYSTEMS+BUILDER+◈&descColor=00f5ff&descSize=16&descAlignY=65&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  LIVE TYPING SVG (DYNAMIC HEADLINE)           -->
+<!--  DYNAMIC TYPING SVG                            -->
 <!-- ══════════════════════════════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=⚡+Full-Stack+Engineer+%7C+Django+·+React+·+Node.js+·+TypeScript;🤖+AI+Systems+Builder+%7C+Google+Gemini+API+·+TFLite;🛡️+Cybersecurity+%26+Crypto+%7C+AES-256+Vault+·+PBKDF2;💻+Desktop+Eng+%7C+Electron+GST+Billing+Suite;📱+Mobile+Dev+%7C+Kotlin+·+Vanaspati+Plant+ID+App;🚀+Shipping+production+software+that+solves+real+problems.)](https://github.com/Aditya-tmu)
@@ -20,7 +22,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  STATUS TELEMETRY BADGES                      -->
+<!--  STATUS TELEMETRY STRIP                       -->
 <!-- ══════════════════════════════════════════════ -->
 
 <img src="https://komarev.com/ghpvc/?username=Aditya-tmu&label=◈+PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=020a14"/>
@@ -35,31 +37,73 @@
 
 <br/><br/>
 
+```
+┌── SYSTEM: AK-OS v5.5 // HIGH-VELOCITY RUNTIME ─────────────────────────────────────┐
+│  ● STATUS: OVERCLOCKED & ONLINE   │   NODE: ASIA-SOUTH-1   │   LATENCY: 8ms        │
+│  ⚡ FOCUS: DISTRIBUTED SYSTEMS • APPLIED AI WORKFLOWS • PRODUCTION ENGINEERING     │
+└────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
 <!-- ══════════════════════════════════════════════ -->
-<!--  PRIMARY DEVELOPER CARD (GENERATED FROM CODE) -->
+<!--  REALISTIC 3D ROTATING PHYSICAL ID BADGE       -->
 <!-- ══════════════════════════════════════════════ -->
 
-<a href="https://github.com/Aditya-tmu">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png"/>
-    <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png" width="98%" alt="Aditya Kumar - System Operator Card (Generated from Code)"/>
-  </picture>
+### 🪪 ◈ OFFICIAL SMART IDENTIFICATION BADGE `// CLICK TO ROTATE`
+
+<p>
+  <sub><i>◈ High-security physical smartcard credential rendered programmatically from code with smartcard EMV chip, RFID loop, and barcode.</i></sub>
+</p>
+
+<!-- 3D SPINNING ANIMATION PREVIEW -->
+<a href="#id-card-details">
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_3d_flip.gif" width="370" alt="Aditya Kumar 3D Rotating ID Badge Preview"/>
 </a>
 
 <br/><br/>
 
+<!-- INTERACTIVE ACCORDION TO FLIP AND REVEAL BACK DETAILS -->
+<details id="id-card-details">
+<summary style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/🔄_CLICK_TO_FLIP_CARD-INSPECT_FRONT_&_BACK_HIGH--RES-00f5ff?style=for-the-badge&labelColor=020a14" alt="Click to Rotate / Flip Card"/>
+</summary>
+
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <h4>◈ SMART BADGE FRONT // OFFICIAL IDENTITY ◈</h4>
+      <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_front.png" width="420" alt="Aditya Kumar ID Card Front"/>
+    </td>
+    <td align="center" valign="top">
+      <h4>◈ SMART BADGE BACK // CLEARANCES & SIGNATURE ◈</h4>
+      <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_back.png" width="420" alt="Aditya Kumar ID Card Back"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><i>✔ Encoded magnetic stripe · Authorized signature panel (Aditya Kumar) · Production system clearance checklist · Direct emergency contacts · Scannable QR code</i></sub>
+</p>
+</details>
+
+<br/>
+
 <!-- ══════════════════════════════════════════════ -->
-<!--  COLLAPSIBLE: CODE-SYNTHESIZED VECTOR PORTRAIT -->
+<!--  ADDITIONAL TELEMETRY & CODE ART PREVIEWS      -->
 <!-- ══════════════════════════════════════════════ -->
 
 <details>
-<summary>⚡ <b>[CLICK TO EXPAND] VIEW PORTRAIT SYNTHESIZED PURELY IN SOURCE CODE CHARACTERS (SVG)</b></summary>
+<summary>💻 <b>[EXPAND] VIEW CODE-SYNTHESIZED VECTOR PORTRAIT (SVG) & DEVELOPER HUD CARD</b></summary>
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png" width="95%" alt="Aditya Kumar System Operator HUD Card"/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_code_art.svg" width="92%" alt="Aditya Kumar Synthesized Code Art"/>
   <br/>
-  <sub><i>◈ Matrix vector portrait rendered via Python syntax tokenization of source image with <code>scripts/generate_profile_assets.py</code></i></sub>
+  <sub><i>◈ Programmatically synthesized with Python, Pillow, and OpenCV from source photo <code>Aditya.jpeg</code></i></sub>
 </p>
 </details>
 
@@ -327,39 +371,22 @@
 
 <br/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Aditya-tmu&show_icons=true&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=38d9f5&bg_color=020a14&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+ADITYA%27S+METRICS"/>
+<!-- GITHUB STATS WITHOUT BROKEN include_all_commits FLAG (100% RELIABLE) -->
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Aditya-tmu&show_icons=true&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=38d9f5&bg_color=020a14&rank_icon=github&custom_title=◈+ADITYA%27S+METRICS"/>
 &nbsp;&nbsp;
 <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tmu&layout=compact&theme=transparent&hide_border=true&title_color=00f5ff&text_color=38d9f5&bg_color=020a14&langs_count=8&custom_title=◈+LANGUAGES"/>
 
 <br/><br/>
 
+<!-- STREAK STATS (HEROKU - 100% ACTIVE) -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tmu&theme=transparent&hide_border=true&ring=00f5ff&fire=39ff14&currStreakLabel=00f5ff&sideLabels=38d9f5&dates=38d9f5&background=020a14&sideNums=00f5ff&currStreakNum=00f5ff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-tmu&bg_color=020a14&color=00f5ff&line=00f5ff&point=39ff14&area=true&area_color=051828&hide_border=true&custom_title=◈+CONTRIBUTION+ACTIVITY+GRAPH" width="97%"/>
-
-</div>
-
----
-
-## `[05]` ◈ ACHIEVEMENT NODES `// TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-tmu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## `[06]` ◈ CONTRIBUTION SNAKE `// REPO MATRIX`
-
-<div align="center">
-
+<!-- CONTRIBUTION SNAKE -->
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  [ FEEDING ON REAL-WORLD COMMITS... ]  ████████████  LIVE ✓     │
+│  [ CONTRIBUTION MATRIX FEEDING LIVE ]  ████████████  LIVE ✓     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -373,33 +400,48 @@
 
 ---
 
-## `[07]` ◈ AUTOMATED ASSET PIPELINE `// CODE-DRIVEN GRAPHICS`
+## `[05]` ◈ VERIFIED MILESTONES `// ACHIEVEMENT NODES`
+
+<div align="center">
+
+<p>
+  <sub><i>◈ High-contrast, verified engineering achievement nodes across Full-Stack, Artificial Intelligence, Cryptography, Mobile, and Real-Time Architectures.</i></sub>
+</p>
+
+<!-- HIGH CONTRAST SELF-CONTAINED SVG (100% UPTIME, ZERO BROKEN DEPENDENCIES) -->
+<img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_achievements.svg" width="100%" alt="Aditya Kumar Verified Achievement Nodes"/>
+
+</div>
+
+---
+
+## `[06]` ◈ AUTOMATED ASSET PIPELINE `// CODE-DRIVEN GRAPHICS`
 
 <div align="center">
 
 ```
 ═══════════════════════════════════════════════════════════════════════
-  GRAPHICS GENERATION ENGINE  ·  PILLOW + OPENCV + PYTHON 3.12
+  GRAPHICS GENERATION ENGINE  ·  PILLOW + OPENCV + QRCODE + PYTHON
 ═══════════════════════════════════════════════════════════════════════
 ```
 
 </div>
 
-This profile features graphics synthesized directly from code via `scripts/generate_profile_assets.py`:
+This profile features real physical badge graphics synthesized directly from code:
 
-- 🤖 **Computer Vision Face Centering**: Uses OpenCV's Haar Cascade classifier (`haarcascade_frontalface_default.xml`) to calculate face coordinates and upper-torso bounding boxes automatically.
-- 🎨 **HUD Vector & Raster Synthesis**: Programmatically constructs the cyberpunk Developer Card, degree ticks, chamfered corner frames, and telemetry bars using Pillow.
-- 🔤 **Source Code Tokenization (SVG)**: Converts image pixel luminance and RGB values into colored programming syntax tokens (`React`, `Django`, `Kotlin`, `async`, `await`, `0101`).
-- 🔄 **GitHub Actions Automation**: Triggers automated regeneration on push to `assets/Aditya.jpeg` via `.github/workflows/generate_assets.yml`.
+- 🪪 **`generate_id_card.py`**: Programmatically generates the physical TMU smartcard badge (Front & Back), realistic EMV chip, RFID wave geometry, rainbow hologram foil, authentic signature panel from `Aditya_Sign.png`, scannable QR code, and builds the 3D rotating GIF (`aditya_id_card_3d_flip.gif`).
+- 🤖 **`generate_profile_assets.py`**: Uses OpenCV Haar Cascade (`haarcascade_frontalface_default.xml`) for face centering, generates the cyberpunk Developer ID card, and compiles source code tokens into vector art (`aditya_code_art.svg`).
+- 🔄 **GitHub Actions Automation**: Automatically regenerates all badge assets via `.github/workflows/generate_assets.yml` whenever the source image or generation scripts are updated.
 
-To run the pipeline locally:
+To re-run the pipeline locally:
 ```bash
-python scripts/generate_profile_assets.py --input "path/to/portrait.jpg" --outdir "assets"
+python scripts/generate_id_card.py
+python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir assets
 ```
 
 ---
 
-## `[08]` ◈ DEPLOYMENT TIMELINE `// SYSTEM HISTORY`
+## `[07]` ◈ DEPLOYMENT TIMELINE `// SYSTEM HISTORY`
 
 ```
 ═══════════════════════════════════════════════════════════════════════
@@ -452,7 +494,7 @@ python scripts/generate_profile_assets.py --input "path/to/portrait.jpg" --outdi
 
 ---
 
-## `[09]` ◈ SECURE COMMS MATRIX `// REACH OUT`
+## `[08]` ◈ SECURE COMMS MATRIX `// REACH OUT`
 
 <div align="center">
 
@@ -511,6 +553,26 @@ python scripts/generate_profile_assets.py --input "path/to/portrait.jpg" --outdi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,40:051828,80:020a14,100:000000&height=140&section=footer&text=SYSTEM+STATUS:+ALL+NODES+OPERATIONAL&fontSize=18&fontColor=00f5ff&fontAlignY=68&animation=fadeIn" width="100%"/>
+<!-- ══════════════════════════════════════════════ -->
+<!--  HIGH-ENERGY DYNAMIC FOOTER                   -->
+<!-- ══════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,25:051828,50:0a0520,80:39ff14,100:000000&height=160&section=footer&text=⚡+SYSTEM+ONLINE+·+READY+FOR+DEPLOYMENT+⚡&fontSize=20&fontColor=00f5ff&fontAlignY=68&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<a href="#-operator-profile-identity"><b>[ 👤 IDENTITY ]</b></a> &nbsp;•&nbsp;
+<a href="#-tech-arsenal-capabilities"><b>[ ⚡ TECH STACK ]</b></a> &nbsp;•&nbsp;
+<a href="#-mission-archives-featured-deployments"><b>[ 🚀 PROJECTS ]</b></a> &nbsp;•&nbsp;
+<a href="#-verified-milestones-achievement-nodes"><b>[ 🏆 ACHIEVEMENTS ]</b></a> &nbsp;•&nbsp;
+<a href="#-secure-comms-matrix-reach-out"><b>[ 📡 CONTACT ]</b></a>
+
+<br/><br/>
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/▲_RETURN_TO_ORBIT-TOP_OF_PROFILE-00f5ff?style=for-the-badge&labelColor=020a14" alt="Return to Orbit"/>
+</a>
+
+<br/><br/>
 
 </div>
