@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aditya Kumar // Official Smart ID Badge [3D Interactive]</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: radial-gradient(circle at 50% 30%, #061c36 0%, #041220 50%, #020a14 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Consolas', 'Fira Code', monospace;
+      color: #00f5ff;
+      overflow-x: hidden;
+      perspective: 1200px;
+    }
+    .hud-header {
+      margin-bottom: 25px;
+      text-align: center;
+    }
+    .hud-header h1 {
+      font-size: 24px;
+      letter-spacing: 4px;
+      color: #ffffff;
+      text-shadow: 0 0 10px #00f5ff, 0 0 20px #00f5ff;
+    }
+    .hud-header p {
+      color: #39ff14;
+      font-size: 13px;
+      margin-top: 6px;
+      letter-spacing: 2px;
+    }
+    .card-scene {
+      width: 380px;
+      height: 600px;
+      perspective: 1200px;
+      cursor: pointer;
+    }
+    .card-object {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    .card-object.is-flipped {
+      transform: rotateY(180deg);
+    }
+    .card-face {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      border-radius: 24px;
+      box-shadow: 0 20px 50px rgba(0, 245, 255, 0.25), 0 0 20px rgba(0, 0, 0, 0.8);
+      overflow: hidden;
+    }
+    .card-face img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+    .card-face.back {
+      transform: rotateY(180deg);
+    }
+    .controls {
+      margin-top: 30px;
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn {
+      background: #041426;
+      border: 1.5px solid #00f5ff;
+      color: #00f5ff;
+      padding: 10px 22px;
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: bold;
+      border-radius: 6px;
+      cursor: pointer;
+      letter-spacing: 1.5px;
+      transition: all 0.2s ease;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn:hover {
+      background: #00f5ff;
+      color: #020a14;
+      box-shadow: 0 0 15px #00f5ff;
+      transform: translateY(-2px);
+    }
+    .btn-green {
+      border-color: #39ff14;
+      color: #39ff14;
+    }
+    .btn-green:hover {
+      background: #39ff14;
+      color: #020a14;
+      box-shadow: 0 0 15px #39ff14;
+    }
+    .hint {
+      margin-top: 15px;
+      font-size: 11px;
+      color: #78a2c0;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+  <div class="hud-header">
+    <h1>TEERTHANKER MAHAVEER UNIVERSITY</h1>
+    <p>⚡ SECURE SMART BADGE // 3D INTERACTIVE FLIP SYSTEM ⚡</p>
+  </div>
+
+  <div class="card-scene" id="cardScene" title="Click to Flip Card 180°">
+    <div class="card-object" id="cardObject">
+      <div class="card-face front">
+        <img src="assets/aditya_id_card_front.png" alt="ID Badge Front" />
+      </div>
+      <div class="card-face back">
+        <img src="assets/aditya_id_card_back.png" alt="ID Badge Back" />
+      </div>
+    </div>
+  </div>
+
+  <div class="hint">
+    [ 🔄 CLICK CARD DIRECTLY OR USE CONTROLS BELOW TO ROTATE 180° ]
+  </div>
+
+  <div class="controls">
+    <button class="btn" id="flipBtn">🔄 FLIP CARD 180°</button>
+    <a href="https://github.com/Aditya-tmu" class="btn btn-green">🌐 GITHUB REPOSITORIES</a>
+    <a href="index.html" class="btn">📋 VIEW PROFILE</a>
+  </div>
+
+  <script>
+    const card = document.getElementById('cardObject');
+    const scene = document.getElementById('cardScene');
+    const flipBtn = document.getElementById('flipBtn');
+
+    function toggleFlip() {
+      card.classList.toggle('is-flipped');
+    }
+
+    scene.addEventListener('click', toggleFlip);
+    flipBtn.addEventListener('click', toggleFlip);
+
+    // Mouse tilt effect for 3D realism
+    scene.addEventListener('mousemove', (e) => {
+      const rect = scene.getBoundingClientRect();
+      const x = e.clientX - rect.left - rect.width / 2;
+      const y = e.clientY - rect.top - rect.height / 2;
+      const isFlipped = card.classList.contains('is-flipped');
+      const baseRotY = isFlipped ? 180 : 0;
+      const rotX = -(y / 20);
+      const rotY = baseRotY + (x / 20);
+      card.style.transform = `rotateX(${rotX}deg) rotateY(${rotY}deg)`;
+    });
+
+    scene.addEventListener('mouseleave', () => {
+      const isFlipped = card.classList.contains('is-flipped');
+      card.style.transform = isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)';
+    });
+  </script>
+</body>
+</html>

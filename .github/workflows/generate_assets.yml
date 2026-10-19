@@ -31,6 +31,7 @@ jobs:
         run: |
           python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir assets
           python scripts/generate_id_card.py
+          python scripts/generate_tech_banners.py
 
       - name: Commit and Push if Changed
         run: |

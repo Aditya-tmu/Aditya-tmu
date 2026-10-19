@@ -1,20 +1,24 @@
 <a id="top"></a>
 
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--           ADITYA KUMAR · GITHUB PROFILE README · v5.5              -->
-<!--          ◈ HIGH-ENERGY REALISTIC ID BADGE & CYBER EDITION ◈        -->
+<!--           ADITYA KUMAR · GITHUB PROFILE README · v6.0              -->
+<!--          ◈ ULTRA-TECH CYBER OPERATOR & SMART ID EDITION ◈          -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  ENERGETIC HERO BANNER                         -->
+<!--  CUSTOM HIGH-TECH CYBER HUD HEADER BANNER     -->
 <!-- ══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a14,30:051828,65:00f5ff,85:39ff14,100:7928ca&height=220&section=header&text=⚡+ADITYA+KUMAR+⚡&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=◈+FULL-STACK+ENGINEER+·+APPLIED+AI+ARCHITECT+·+SYSTEMS+BUILDER+◈&descColor=00f5ff&descSize=16&descAlignY=65&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<a href="https://github.com/Aditya-tmu">
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/tech_header_banner.svg" width="100%" alt="Aditya Kumar - High-Tech Dev HUD Header Banner"/>
+</a>
+
+<br/><br/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  DYNAMIC TYPING SVG                            -->
+<!--  DYNAMIC TYPING TERMINAL                       -->
 <!-- ══════════════════════════════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=⚡+Full-Stack+Engineer+%7C+Django+·+React+·+Node.js+·+TypeScript;🤖+AI+Systems+Builder+%7C+Google+Gemini+API+·+TFLite;🛡️+Cybersecurity+%26+Crypto+%7C+AES-256+Vault+·+PBKDF2;💻+Desktop+Eng+%7C+Electron+GST+Billing+Suite;📱+Mobile+Dev+%7C+Kotlin+·+Vanaspati+Plant+ID+App;🚀+Shipping+production+software+that+solves+real+problems.)](https://github.com/Aditya-tmu)
@@ -22,7 +26,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  STATUS TELEMETRY STRIP                       -->
+<!--  TELEMETRY BADGE MATRIX                       -->
 <!-- ══════════════════════════════════════════════ -->
 
 <img src="https://komarev.com/ghpvc/?username=Aditya-tmu&label=◈+PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=020a14"/>
@@ -33,70 +37,68 @@
 &nbsp;
 <img src="https://img.shields.io/badge/◈_STATUS-ONLINE%20·%20OPEN%20TO%20WORK-39ff14?style=for-the-badge&labelColor=020a14"/>
 &nbsp;
-<img src="https://img.shields.io/badge/◈_LOCATION-INDIA%20🇮🇳-00f5ff?style=for-the-badge&labelColor=020a14"/>
+<img src="https://img.shields.io/badge/◈_NODE-ASIA--SOUTH--1%20🇮🇳-00f5ff?style=for-the-badge&labelColor=020a14"/>
 
 <br/><br/>
 
-```
-┌── SYSTEM: AK-OS v5.5 // HIGH-VELOCITY RUNTIME ─────────────────────────────────────┐
-│  ● STATUS: OVERCLOCKED & ONLINE   │   NODE: ASIA-SOUTH-1   │   LATENCY: 8ms        │
-│  ⚡ FOCUS: DISTRIBUTED SYSTEMS • APPLIED AI WORKFLOWS • PRODUCTION ENGINEERING     │
-└────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 <!-- ══════════════════════════════════════════════ -->
-<!--  REALISTIC 3D ROTATING PHYSICAL ID BADGE       -->
+<!--  CLICK-TO-ROTATE REALISTIC PHYSICAL ID BADGE   -->
 <!-- ══════════════════════════════════════════════ -->
 
-### 🪪 ◈ OFFICIAL SMART IDENTIFICATION BADGE `// CLICK TO ROTATE`
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║     🪪 OFFICIAL SMART CREDENTIAL  ·  CLICK BADGE TO ROTATE 180°     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <p>
-  <sub><i>◈ High-security physical smartcard credential rendered programmatically from code with smartcard EMV chip, RFID loop, and barcode.</i></sub>
+  <sub><i>◈ Tap or click the ID card below to rotate it and inspect the back side with security clearance, official signature, and emergency contacts.</i></sub>
 </p>
 
-<!-- 3D SPINNING ANIMATION PREVIEW -->
-<a href="#id-card-details">
-  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_3d_flip.gif" width="370" alt="Aditya Kumar 3D Rotating ID Badge Preview"/>
-</a>
+<!-- INTERACTIVE ACCORDION: CLICK CARD TO ROTATE / FLIP -->
+<details>
+  <summary style="cursor: pointer; list-style: none;">
+    <!-- STATIC FRONT BADGE -->
+    <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_front.png" width="410" alt="Aditya Kumar Official Smart ID Badge - Front (Click to Rotate / Flip)" style="cursor: pointer; border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 245, 255, 0.2);"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/🔄_CLICK_CARD_TO_ROTATE_180°-REVEAL_BACK_SIDE_WITH_CLEARANCES_%26_SIGNATURE-00f5ff?style=for-the-badge&labelColor=020a14" alt="Click Card to Rotate 180°" style="cursor: pointer;"/>
+  </summary>
 
-<br/><br/>
+  <br/>
 
-<!-- INTERACTIVE ACCORDION TO FLIP AND REVEAL BACK DETAILS -->
-<details id="id-card-details">
-<summary style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/🔄_CLICK_TO_FLIP_CARD-INSPECT_FRONT_&_BACK_HIGH--RES-00f5ff?style=for-the-badge&labelColor=020a14" alt="Click to Rotate / Flip Card"/>
-</summary>
+  <!-- REVEALED BACK BADGE -->
+  <table align="center" border="0" style="border: none;">
+    <tr>
+      <td align="center" valign="top" style="border: none;">
+        <h4>◈ BADGE BACK // ENCODED MAGNETIC STRIPE &amp; CLEARANCE ◈</h4>
+        <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_back.png" width="410" alt="Aditya Kumar Official Smart ID Badge - Back"/>
+      </td>
+    </tr>
+  </table>
 
-<br/>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="top">
-      <h4>◈ SMART BADGE FRONT // OFFICIAL IDENTITY ◈</h4>
-      <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_front.png" width="420" alt="Aditya Kumar ID Card Front"/>
-    </td>
-    <td align="center" valign="top">
-      <h4>◈ SMART BADGE BACK // CLEARANCES & SIGNATURE ◈</h4>
-      <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_back.png" width="420" alt="Aditya Kumar ID Card Back"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub><i>✔ Encoded magnetic stripe · Authorized signature panel (Aditya Kumar) · Production system clearance checklist · Direct emergency contacts · Scannable QR code</i></sub>
-</p>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/🔄_CLICK_AGAIN_TO_ROTATE_BACK_TO_FRONT-020a14?style=for-the-badge&labelColor=39ff14" alt="Click again to rotate back"/>
+  </p>
+  <p align="center">
+    <sub><i>✔ Encoded magnetic stripe · Authorized signature panel (Aditya Kumar) · Production system checklist · Emergency contacts · Scannable QR code</i></sub>
+  </p>
 </details>
 
 <br/>
 
+<a href="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_3d_flip.gif">
+  <img src="https://img.shields.io/badge/⚡_VIEW_CONTINUOUS_3D_SPIN_PREVIEW-051828?style=flat-square&logo=three.js&logoColor=00f5ff" alt="View 3D Spin GIF"/>
+</a>
+
+<br/><br/>
+
 <!-- ══════════════════════════════════════════════ -->
-<!--  ADDITIONAL TELEMETRY & CODE ART PREVIEWS      -->
+<!--  EXPANDABLE CODE ART & DEVELOPER CARD          -->
 <!-- ══════════════════════════════════════════════ -->
 
 <details>
-<summary>💻 <b>[EXPAND] VIEW CODE-SYNTHESIZED VECTOR PORTRAIT (SVG) & DEVELOPER HUD CARD</b></summary>
+<summary>💻 <b>[EXPAND] VIEW CODE-SYNTHESIZED VECTOR PORTRAIT (SVG) &amp; DEVELOPER HUD CARD</b></summary>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png" width="95%" alt="Aditya Kumar System Operator HUD Card"/>
@@ -115,34 +117,38 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_avatar_hud.png" width="280" alt="Aditya Kumar HUD Avatar"/>
-
 ## `[01]` ◈ OPERATOR PROFILE `// IDENTITY`
 
-```yaml
-╔══════════════════════════════════════════════════════════════════╗
-║                    [ OPERATOR IDENTIFICATION ]                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Name        :  Aditya Kumar                                     ║
-║  Handle      :  @Aditya-tmu                                      ║
-║  Title       :  Full-Stack Developer · AI & Systems Engineer    ║
-║  Education   :  B.Tech in Computer Science & Eng. (IBM Spec)     ║
-║  Alma Mater  :  Teerthanker Mahaveer University (TMU), Moradabad ║
-║  Location    :  Moradabad, Uttar Pradesh, India 🇮🇳               ║
-║  Telemetry   :  28.8386° N, 78.7733° E · Node Asia-South-1       ║
-║  Status      :  🟢 ONLINE · AVAILABLE FOR SWE INTERNSHIPS        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Flagships   :  SkillNest (AI Marketplace)                       ║
-║                 Vindywashini Books (Desktop Accounting & GST)    ║
-║                 Secure File Vault (AES-256 Encrypted Storage)    ║
-║                 Vanaspati (Bilingual Android Plant AI)           ║
-║  Focus Areas :  Scalable Backends · Desktop Apps · Applied AI    ║
-║  Philosophy  :  "Building production systems that solve real     ║
-║                  problems for real people."                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br clear="right"/>
+<!-- PROPERLY ALIGNED RESPONSIVE OPERATOR GRID -->
+<table border="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="35%" align="center" valign="middle" style="border: none; padding: 12px;">
+      <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_avatar_hud.png" width="250" alt="Aditya Kumar - HUD Operator Avatar" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0, 245, 255, 0.25);"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OPERATOR-VERIFIED_✓-00f5ff?style=for-the-badge&labelColor=020a14"/>
+      <br/>
+      <code>● SYSTEM OPERATOR // TMU CSE</code>
+    </td>
+    <td width="65%" valign="middle" style="border: none; padding: 12px;">
+<pre><code>╔══════════════════════════════════════════════════════════╗
+║                OPERATOR SPECIFICATIONS                   ║
+╠══════════════════════════════════════════════════════════╣
+║  Name        : Aditya Kumar                              ║
+║  Handle      : @Aditya-tmu                               ║
+║  Role        : Full-Stack Developer · AI Systems         ║
+║  Education   : B.Tech in CSE (IBM Specialization)        ║
+║  Institute   : Teerthanker Mahaveer University (TMU)     ║
+║  Location    : Moradabad, Uttar Pradesh, India 🇮🇳        ║
+║  Telemetry   : 28.8386° N, 78.7733° E · Asia-South-1     ║
+║  Status      : 🟢 ONLINE · OPEN TO SWE INTERNSHIPS       ║
+║  Flagships   : SkillNest · Vindywashini Books · Vault    ║
+║  Specialty   : React · Django · Kotlin · Gemini · Node   ║
+║  Philosophy  : "Building software that solves actual     ║
+║                 problems for real people."               ║
+╚══════════════════════════════════════════════════════════╝</code></pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -429,12 +435,14 @@
 
 This profile features real physical badge graphics synthesized directly from code:
 
-- 🪪 **`generate_id_card.py`**: Programmatically generates the physical TMU smartcard badge (Front & Back), realistic EMV chip, RFID wave geometry, rainbow hologram foil, authentic signature panel from `Aditya_Sign.png`, scannable QR code, and builds the 3D rotating GIF (`aditya_id_card_3d_flip.gif`).
+- 🪪 **`generate_id_card.py`**: Programmatically generates the physical TMU smartcard badge (Front &amp; Back), realistic EMV chip, RFID wave geometry, rainbow hologram foil, authentic signature panel from `Aditya_Sign.png`, scannable QR code, and builds the 3D rotating GIF (`aditya_id_card_3d_flip.gif`).
 - 🤖 **`generate_profile_assets.py`**: Uses OpenCV Haar Cascade (`haarcascade_frontalface_default.xml`) for face centering, generates the cyberpunk Developer ID card, and compiles source code tokens into vector art (`aditya_code_art.svg`).
+- 🎨 **`generate_tech_banners.py`**: Programmatically compiles the high-tech HUD header banner (`tech_header_banner.svg`) and docking bay terminal footer (`tech_footer_banner.svg`).
 - 🔄 **GitHub Actions Automation**: Automatically regenerates all badge assets via `.github/workflows/generate_assets.yml` whenever the source image or generation scripts are updated.
 
 To re-run the pipeline locally:
 ```bash
+python scripts/generate_tech_banners.py
 python scripts/generate_id_card.py
 python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir assets
 ```
@@ -554,10 +562,12 @@ python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir as
 <br/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  HIGH-ENERGY DYNAMIC FOOTER                   -->
+<!--  CUSTOM HIGH-TECH DOCKING TERMINAL FOOTER      -->
 <!-- ══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,25:051828,50:0a0520,80:39ff14,100:000000&height=160&section=footer&text=⚡+SYSTEM+ONLINE+·+READY+FOR+DEPLOYMENT+⚡&fontSize=20&fontColor=00f5ff&fontAlignY=68&animation=fadeIn" width="100%"/>
+<a href="#top">
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/tech_footer_banner.svg" width="100%" alt="High-Tech Terminal Docking Bay Footer"/>
+</a>
 
 <br/><br/>
 
@@ -570,7 +580,7 @@ python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir as
 <br/><br/>
 
 <a href="#top">
-  <img src="https://img.shields.io/badge/▲_RETURN_TO_ORBIT-TOP_OF_PROFILE-00f5ff?style=for-the-badge&labelColor=020a14" alt="Return to Orbit"/>
+  <img src="https://img.shields.io/badge/▲_REBOOT_SEQUENCE-RETURN_TO_ORBIT-00f5ff?style=for-the-badge&labelColor=020a14" alt="Return to Orbit"/>
 </a>
 
 <br/><br/>
