@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aditya Kumar // Official Smart ID Badge [3D Interactive Flip]</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: radial-gradient(circle at 50% 25%, #081d38 0%, #041224 55%, #020914 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Consolas', 'Fira Code', 'Segoe UI', monospace;
+      color: #00f5ff;
+      overflow-x: hidden;
+      padding: 24px 16px;
+      perspective: 1400px;
+    }
+    .hud-header {
+      margin-bottom: 22px;
+      text-align: center;
+    }
+    .hud-header h1 {
+      font-size: 24px;
+      letter-spacing: 3.5px;
+      color: #ffffff;
+      text-shadow: 0 0 12px #00f5ff, 0 0 24px rgba(0, 245, 255, 0.4);
+    }
+    .hud-header p {
+      color: #39ff14;
+      font-size: 13px;
+      margin-top: 8px;
+      letter-spacing: 2px;
+    }
+    .card-scene {
+      width: 380px;
+      height: 590px;
+      max-width: 90vw;
+      max-height: 75vh;
+      perspective: 1400px;
+      cursor: pointer;
+      position: relative;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    .card-object {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.75s cubic-bezier(0.2, 0.85, 0.32, 1.2);
+    }
+    .card-face {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      border-radius: 26px;
+      box-shadow: 0 25px 60px rgba(0, 245, 255, 0.28), 0 0 30px rgba(2, 10, 20, 0.95);
+      overflow: hidden;
+      border: 2px solid rgba(0, 245, 255, 0.3);
+      background: #061220;
+    }
+    .card-face img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+      pointer-events: none;
+    }
+    .card-face.back {
+      transform: rotateY(180deg);
+    }
+    .status-badge {
+      margin-top: 18px;
+      padding: 6px 16px;
+      border-radius: 20px;
+      background: rgba(4, 20, 38, 0.85);
+      border: 1px solid #00f5ff;
+      font-size: 12px;
+      letter-spacing: 1.5px;
+      color: #39ff14;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 0 12px rgba(0, 245, 255, 0.2);
+    }
+    .pulse-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #39ff14;
+      box-shadow: 0 0 8px #39ff14;
+      animation: pulse 1.6s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+    .controls {
+      margin-top: 22px;
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn {
+      background: #041428;
+      border: 1.5px solid #00f5ff;
+      color: #00f5ff;
+      padding: 11px 22px;
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: bold;
+      border-radius: 6px;
+      cursor: pointer;
+      letter-spacing: 1.5px;
+      transition: all 0.22s ease;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn:hover {
+      background: #00f5ff;
+      color: #020a14;
+      box-shadow: 0 0 18px #00f5ff;
+      transform: translateY(-2px);
+    }
+    .btn-green {
+      border-color: #39ff14;
+      color: #39ff14;
+    }
+    .btn-green:hover {
+      background: #39ff14;
+      color: #020a14;
+      box-shadow: 0 0 18px #39ff14;
+    }
+    .hint {
+      margin-top: 14px;
+      font-size: 12px;
+      color: #7bb5db;
+      letter-spacing: 1px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="hud-header">
+    <h1>TEERTHANKER MAHAVEER UNIVERSITY</h1>
+    <p>◈ SECURE SMART BADGE // 3D INTERACTIVE FLIP SYSTEM ◈</p>
+  </div>
+
+  <div class="card-scene" id="cardScene" title="Click directly to flip card 180°">
+    <div class="card-object" id="cardObject">
+      <div class="card-face front">
+        <img src="assets/aditya_id_card_front.png" alt="Aditya Kumar Official Smart ID Badge - Front" />
+      </div>
+      <div class="card-face back">
+        <img src="assets/aditya_id_card_back.png" alt="Aditya Kumar Official Smart ID Badge - Back" />
+      </div>
+    </div>
+  </div>
+
+  <div class="status-badge" id="sideIndicator">
+    <span class="pulse-dot"></span>
+    <span id="sideText">ACTIVE VIEW: FRONT CREDENTIAL</span>
+  </div>
+
+  <div class="hint">
+    [ 🔄 CLICK OR TAP ANYWHERE ON THE CARD TO ROTATE 180° ]
+  </div>
+
+  <div class="controls">
+    <button class="btn" id="flipBtn">🔄 FLIP CARD 180°</button>
+    <a href="https://github.com/Aditya-tmu" class="btn btn-green">🌐 GITHUB REPOSITORIES</a>
+    <a href="https://github.com/Aditya-tmu/Aditya-tmu" class="btn">📋 VIEW GITHUB PROFILE</a>
+  </div>
+
+  <script>
+    const card = document.getElementById('cardObject');
+    const scene = document.getElementById('cardScene');
+    const flipBtn = document.getElementById('flipBtn');
+    const sideText = document.getElementById('sideText');
+
+    let isFlipped = false;
+    let tiltX = 0;
+    let tiltY = 0;
+
+    function renderTransform() {
+      const baseRotY = isFlipped ? 180 : 0;
+      card.style.transform = `rotateX(${tiltX}deg) rotateY(${baseRotY + tiltY}deg)`;
+    }
+
+    function toggleFlip(e) {
+      if (e) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+      isFlipped = !isFlipped;
+      tiltX = 0;
+      tiltY = 0;
+      renderTransform();
+      sideText.textContent = isFlipped 
+        ? "ACTIVE VIEW: BACK (CLEARANCES & SIGNATURE)" 
+        : "ACTIVE VIEW: FRONT CREDENTIAL";
+    }
+
+    // Direct click listeners
+    scene.addEventListener('click', toggleFlip);
+    flipBtn.addEventListener('click', toggleFlip);
+
+    // Mobile touch listener
+    scene.addEventListener('touchend', (e) => {
+      toggleFlip(e);
+    });
+
+    // 3D Mouse Parallax Tilt
+    scene.addEventListener('mousemove', (e) => {
+      const rect = scene.getBoundingClientRect();
+      const px = e.clientX - rect.left - rect.width / 2;
+      const py = e.clientY - rect.top - rect.height / 2;
+      tiltX = -(py / 18);
+      tiltY = (px / 18);
+      renderTransform();
+    });
+
+    scene.addEventListener('mouseleave', () => {
+      tiltX = 0;
+      tiltY = 0;
+      renderTransform();
+    });
+
+    // Auto-demo flip if requested via URL hash #flip
+    if (window.location.hash === '#flip') {
+      setTimeout(toggleFlip, 600);
+    }
+  </script>
+</body>
+</html>

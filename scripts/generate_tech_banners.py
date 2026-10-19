@@ -6,7 +6,7 @@ Generates ultra-techy, futuristic Cyber / Dev-HUD Header and Footer SVGs for Git
 """
 
 import os
-import math
+import xml.etree.ElementTree as ET
 
 def generate_header_svg(out_path):
     W, H = 1200, 320
@@ -41,13 +41,12 @@ def generate_header_svg(out_path):
         '  </defs>',
         '',
         '  <!-- Background Canvas -->',
-        f'  <rect width="{W}" height="{H}" rx="16" fill="url(#hdrBg)" stroke="#00f5ff" stroke-opacity="0.35" stroke-width="2" />',
+        f'  <rect width="{W}" height="{H}" rx="16" fill="url(#hdrBg)" stroke="#00f5ff" stroke-opacity="0.4" stroke-width="2" />',
         '',
         '  <!-- Cyber Dot Matrix Grid -->',
         '  <g fill="#00f5ff" opacity="0.15">'
     ]
 
-    # Grid dots
     for gx in range(40, W - 40, 28):
         for gy in range(40, H - 40, 28):
             svg.append(f'    <circle cx="{gx}" cy="{gy}" r="1" />')
@@ -82,41 +81,40 @@ def generate_header_svg(out_path):
         '  <circle cx="84" cy="56" r="4" fill="#39ff14" filter="url(#glow)" />',
         '  <text x="96" y="60" fill="#39ff14" font-family="Consolas, monospace" font-size="11" font-weight="bold">SYSTEM STATUS: 200 OK</text>',
         '',
-        f'  <text x="{W // 2}" y="60" text-anchor="middle" fill="#00f5ff" opacity="0.8" font-family="Consolas, monospace" font-size="11" font-weight="bold">'
+        f'  <text x="{W // 2}" y="60" text-anchor="middle" fill="#00f5ff" opacity="0.85" font-family="Consolas, monospace" font-size="11" font-weight="bold">'
         '◈ OPERATOR PROTOCOL AK-OS v6.0 // APPLIED AI &amp; DISTRIBUTED SYSTEMS ◈</text>',
         '',
         f'  <rect x="{W - 280}" y="44" width="210" height="24" rx="4" fill="#051828" stroke="#00f5ff" stroke-opacity="0.4" />',
-        f'  <text x="{W - 175}" y="60" text-anchor="middle" fill="#00f5ff" font-family="Consolas, monospace" font-size="11">NODE: ASIA-SOUTH-1 // INDIA 🇮🇳</text>',
+        f'  <text x="{W - 175}" y="60" text-anchor="middle" fill="#00f5ff" font-family="Consolas, monospace" font-size="11">NODE: ASIA-SOUTH-1 // INDIA [IN]</text>',
         '',
         '  <!-- Central Laser Divider Line -->',
         f'  <line x1="80" y1="80" x2="{W - 80}" y2="80" stroke="url(#laserGrad)" stroke-width="2" />',
         '',
         '  <!-- Main Hero Title -->',
         f'  <text x="{W // 2}" y="152" text-anchor="middle" fill="url(#textGrad)" filter="url(#glow)" '
-        'font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif" font-size="64" font-weight="900" letter-spacing="6">ADITYA KUMAR</text>',
+        'font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="900" letter-spacing="6">ADITYA KUMAR</text>',
         '',
         '  <!-- Subtitle Tagline -->',
         f'  <text x="{W // 2}" y="196" text-anchor="middle" fill="#00f5ff" '
-        'font-family="Consolas, Fira Code, monospace" font-size="16" font-weight="bold" letter-spacing="3">'
+        'font-family="Consolas, monospace" font-size="16" font-weight="bold" letter-spacing="3">'
         '⚡ FULL-STACK DEVELOPER  ·  AI SYSTEMS ARCHITECT  ·  DESKTOP &amp; MOBILE BUILDER ⚡</text>',
         '',
         '  <!-- Terminal Command Prompt Box -->',
         f'  <rect x="{W // 2 - 380}" y="222" width="760" height="34" rx="6" fill="#020a14" stroke="#00f5ff" stroke-opacity="0.5" stroke-width="1.2" />',
         f'  <text x="{W // 2}" y="244" text-anchor="middle" fill="#39ff14" font-family="Consolas, monospace" font-size="12">'
-        '<tspan fill="#00f5ff">aditya@workstation:~$</tspan> ./deploy --stack="React • Django • TypeScript • Kotlin • Gemini AI • AES-256" --status=READY</text>',
+        'aditya@workstation:~$ ./deploy --stack="React · Django · TypeScript · Kotlin · Gemini AI · AES-256" --status=READY</text>',
         '',
         '  <!-- Bottom Telemetry Ticks Bar -->',
         f'  <line x1="80" y1="278" x2="{W - 80}" y2="278" stroke="#00f5ff" stroke-opacity="0.3" stroke-width="1" />'
     ])
 
-    # Ticks along bottom line
     for tx in range(100, W - 80, 50):
         svg.append(f'  <line x1="{tx}" y1="274" x2="{tx}" y2="282" stroke="#00f5ff" stroke-opacity="0.5" stroke-width="1" />')
 
     svg.extend([
-        f'  <text x="80" y="296" fill="#00f5ff" opacity="0.7" font-family="Consolas, monospace" font-size="10">UPTIME: 99.98%</text>',
+        f'  <text x="80" y="296" fill="#00f5ff" opacity="0.75" font-family="Consolas, monospace" font-size="10">UPTIME: 99.98%</text>',
         f'  <text x="{W // 2}" y="296" text-anchor="middle" fill="#39ff14" opacity="0.9" font-family="Consolas, monospace" font-size="10">● ALL REPOSITORIES ACTIVE &amp; PASSING CI/CD</text>',
-        f'  <text x="{W - 80}" y="296" text-anchor="end" fill="#00f5ff" opacity="0.7" font-family="Consolas, monospace" font-size="10">CLEARANCE: LEVEL 5 ROOT</text>',
+        f'  <text x="{W - 80}" y="296" text-anchor="end" fill="#00f5ff" opacity="0.75" font-family="Consolas, monospace" font-size="10">CLEARANCE: LEVEL 5 ROOT</text>',
         '</svg>'
     ])
 
@@ -159,7 +157,6 @@ def generate_footer_svg(out_path):
         '  <g transform="translate(60, 40)">'
     ]
 
-    # Equalizer heights
     eq_left = [18, 28, 42, 60, 48, 35, 55, 68, 40, 22, 35, 50, 30]
     for i, eh in enumerate(eq_left):
         svg.append(f'    <rect x="{i * 12}" y="{80 - eh}" width="6" height="{eh}" rx="2" fill="url(#eqGrad)" opacity="0.75" />')
@@ -189,10 +186,10 @@ def generate_footer_svg(out_path):
         f'  <line x1="280" y1="120" x2="{W - 280}" y2="120" stroke="#00f5ff" stroke-opacity="0.3" stroke-width="1" />',
         '',
         f'  <text x="{W // 2}" y="145" text-anchor="middle" fill="#a0c4df" font-family="Consolas, monospace" font-size="12">'
-        'ENCRYPTION: AES-256 (FERNET)  •  INTEGRITY: SHA-256 VERIFIED  •  BASE: MORADABAD, INDIA [IN]</text>',
+        'ENCRYPTION: AES-256 (FERNET)  ·  INTEGRITY: SHA-256 VERIFIED  ·  BASE: MORADABAD, INDIA [IN]</text>',
         '',
         f'  <text x="{W // 2}" y="172" text-anchor="middle" fill="#00f5ff" opacity="0.8" font-family="Consolas, monospace" font-size="11">'
-        '&copy; 2026 ADITYA KUMAR (@Aditya-tmu) · BUILT WITH CODE, RESILIENCE &amp; PASSION</text>',
+        '&#169; 2026 ADITYA KUMAR (@Aditya-tmu) // BUILT WITH CODE, RESILIENCE &amp; PASSION</text>',
         '</svg>'
     ])
 
@@ -214,6 +211,11 @@ def main():
 
     print("[*] Generating Ultra-Techy Footer SVG...")
     generate_footer_svg(footer_path)
+
+    # Validate XML
+    for p in [header_path, footer_path]:
+        ET.parse(p)
+        print(f"[XML VALIDATED] {p}")
 
     print("\n[SUCCESS] Tech header & footer banners generated successfully!")
 

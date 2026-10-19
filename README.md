@@ -12,10 +12,25 @@
 <!-- ══════════════════════════════════════════════ -->
 
 <a href="https://github.com/Aditya-tmu">
-  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/tech_header_banner.svg" width="100%" alt="Aditya Kumar - High-Tech Dev HUD Header Banner"/>
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/tech_header_banner.svg?v=6.1" width="100%" alt="Aditya Kumar - High-Tech Dev HUD Header Banner"/>
 </a>
 
 <br/><br/>
+
+<!-- ══════════════════════════════════════════════ -->
+<!--  CODE-SYNTHESIZED OPERATOR PORTRAIT (SVG)      -->
+<!-- ══════════════════════════════════════════════ -->
+
+<a href="https://github.com/Aditya-tmu">
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_code_art.svg?v=6.1" width="620" alt="Aditya Kumar - Code-Synthesized Operator Portrait"/>
+</a>
+
+<br/>
+<p>
+  <sub><i>◈ Code-Synthesized Operator Portrait · Programmatically reconstructed into syntax code streams with Python, Pillow &amp; OpenCV from source photo <code>Aditya.jpeg</code></i></sub>
+</p>
+
+<br/>
 
 <!-- ══════════════════════════════════════════════ -->
 <!--  DYNAMIC TYPING TERMINAL                       -->
@@ -42,70 +57,65 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--  CLICK-TO-ROTATE REALISTIC PHYSICAL ID BADGE   -->
+<!--  OFFICIAL SMART CREDENTIAL · 3D FLIP SYSTEM    -->
 <!-- ══════════════════════════════════════════════ -->
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║     🪪 OFFICIAL SMART CREDENTIAL  ·  CLICK BADGE TO ROTATE 180°     ║
+║     🪪 OFFICIAL SMART CREDENTIAL  ·  AUTO-FLIP & 3D INTERACTIVE      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <p>
-  <sub><i>◈ Tap or click the ID card below to rotate it and inspect the back side with security clearance, official signature, and emergency contacts.</i></sub>
+  <sub><i>◈ Auto-flipping smart badge preview below (pauses on front &amp; back for easy reading). Click the card to launch the 3D manual flip viewer.</i></sub>
 </p>
 
-<!-- INTERACTIVE ACCORDION: CLICK CARD TO ROTATE / FLIP -->
-<details>
-  <summary style="cursor: pointer; list-style: none;">
-    <!-- STATIC FRONT BADGE -->
-    <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_front.png" width="410" alt="Aditya Kumar Official Smart ID Badge - Front (Click to Rotate / Flip)" style="cursor: pointer; border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 245, 255, 0.2);"/>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/🔄_CLICK_CARD_TO_ROTATE_180°-REVEAL_BACK_SIDE_WITH_CLEARANCES_%26_SIGNATURE-00f5ff?style=for-the-badge&labelColor=020a14" alt="Click Card to Rotate 180°" style="cursor: pointer;"/>
-  </summary>
-
-  <br/>
-
-  <!-- REVEALED BACK BADGE -->
-  <table align="center" border="0" style="border: none;">
-    <tr>
-      <td align="center" valign="top" style="border: none;">
-        <h4>◈ BADGE BACK // ENCODED MAGNETIC STRIPE &amp; CLEARANCE ◈</h4>
-        <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_back.png" width="410" alt="Aditya Kumar Official Smart ID Badge - Back"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/🔄_CLICK_AGAIN_TO_ROTATE_BACK_TO_FRONT-020a14?style=for-the-badge&labelColor=39ff14" alt="Click again to rotate back"/>
-  </p>
-  <p align="center">
-    <sub><i>✔ Encoded magnetic stripe · Authorized signature panel (Aditya Kumar) · Production system checklist · Emergency contacts · Scannable QR code</i></sub>
-  </p>
-</details>
-
-<br/>
-
-<a href="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_3d_flip.gif">
-  <img src="https://img.shields.io/badge/⚡_VIEW_CONTINUOUS_3D_SPIN_PREVIEW-051828?style=flat-square&logo=three.js&logoColor=00f5ff" alt="View 3D Spin GIF"/>
+<!-- AUTO-FLIPPING CARD PREVIEW (LINKS DIRECTLY TO 3D MANUAL FLIPPER) -->
+<a href="https://aditya-tmu.github.io/Aditya-tmu/card.html" title="Click anywhere on the ID Card to open 3D Interactive Flip Experience">
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_flip_pause.gif?v=6.1" width="410" alt="Aditya Kumar Official Smart ID Badge - Click to Rotate 180°"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--  EXPANDABLE CODE ART & DEVELOPER CARD          -->
-<!-- ══════════════════════════════════════════════ -->
+<a href="https://aditya-tmu.github.io/Aditya-tmu/card.html">
+  <img src="https://img.shields.io/badge/🔄_CLICK_CARD_TO_ROTATE_180°-LAUNCH_3D_INTERACTIVE_FLIP_VIEWER-00f5ff?style=for-the-badge&logo=three.js&labelColor=020a14" alt="Click to Flip Card 180°"/>
+</a>
 
+<br/><br/>
+
+<!-- HIGH-RESOLUTION DUAL-FACED BADGE SPECIFICATION MATRIX -->
 <details>
-<summary>💻 <b>[EXPAND] VIEW CODE-SYNTHESIZED VECTOR PORTRAIT (SVG) &amp; DEVELOPER HUD CARD</b></summary>
+  <summary><b>🔍 [EXPAND] HIGH-RESOLUTION DUAL-FACED BADGE SPECIFICATIONS (FRONT &amp; BACK)</b></summary>
+  <br/>
+  <table align="center" border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" valign="top" style="border: none; padding: 14px;">
+        <h4 style="color: #00f5ff;">◈ FRONT // OFFICIAL CREDENTIAL ◈</h4>
+        <a href="https://aditya-tmu.github.io/Aditya-tmu/card.html">
+          <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_front.png?v=6.1" width="370" alt="Aditya Kumar Smart ID Card Front"/>
+        </a>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 14px;">
+        <h4 style="color: #39ff14;">◈ BACK // CLEARANCES &amp; SIGNATURE ◈</h4>
+        <a href="https://aditya-tmu.github.io/Aditya-tmu/card.html#flip">
+          <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_id_card_back.png?v=6.1" width="370" alt="Aditya Kumar Smart ID Card Back"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <sub><i>✔ Mathematical center alignment · Large high-contrast typography · Authorized signature · Production system clearances · Scannable QR code</i></sub>
+  </p>
+</details>
+
+<br/><br/>
+
+<!-- EXPANDABLE DEVELOPER HUD CARD -->
+<details>
+<summary>💻 <b>[EXPAND] VIEW FULL DEVELOPER HUD CARD</b></summary>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png" width="95%" alt="Aditya Kumar System Operator HUD Card"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_code_art.svg" width="92%" alt="Aditya Kumar Synthesized Code Art"/>
-  <br/>
-  <sub><i>◈ Programmatically synthesized with Python, Pillow, and OpenCV from source photo <code>Aditya.jpeg</code></i></sub>
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_profile_card.png?v=6.1" width="95%" alt="Aditya Kumar System Operator HUD Card"/>
 </p>
 </details>
 
@@ -415,7 +425,7 @@
 </p>
 
 <!-- HIGH CONTRAST SELF-CONTAINED SVG (100% UPTIME, ZERO BROKEN DEPENDENCIES) -->
-<img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_achievements.svg" width="100%" alt="Aditya Kumar Verified Achievement Nodes"/>
+<img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/aditya_achievements.svg?v=6.1" width="100%" alt="Aditya Kumar Verified Achievement Nodes"/>
 
 </div>
 
@@ -566,7 +576,7 @@ python scripts/generate_profile_assets.py --input assets/Aditya.jpeg --outdir as
 <!-- ══════════════════════════════════════════════ -->
 
 <a href="#top">
-  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/tech_footer_banner.svg" width="100%" alt="High-Tech Terminal Docking Bay Footer"/>
+  <img src="https://raw.githubusercontent.com/Aditya-tmu/Aditya-tmu/main/assets/tech_footer_banner.svg?v=6.1" width="100%" alt="Aditya Kumar - High-Tech Dev Terminal Docking Bay Footer"/>
 </a>
 
 <br/><br/>

@@ -7,79 +7,79 @@
   </defs>
   <rect width="900" height="350" rx="14" fill="url(#bgG)" stroke="#00f5ff" stroke-opacity="0.35" stroke-width="1.5" />
   <!-- Header -->
-  <text x="28" y="32" fill="#39ff14" font-family="Consolas, Fira Code, monospace" font-size="13" font-weight="bold">◈ OPERATOR ACHIEVEMENT NODES // VERIFIED MILESTONES</text>
-  <text x="872" y="32" text-anchor="end" fill="#00f5ff" font-family="Consolas, Fira Code, monospace" font-size="12">ENGINEERING TIERS: DIAMOND &amp; GOLD</text>
+  <text x="28" y="32" fill="#39ff14" font-family="Consolas, monospace" font-size="13" font-weight="bold">◈ OPERATOR ACHIEVEMENT NODES // VERIFIED MILESTONES</text>
+  <text x="872" y="32" text-anchor="end" fill="#00f5ff" font-family="Consolas, monospace" font-size="12">ENGINEERING TIERS: DIAMOND &amp; GOLD</text>
   <line x1="24" y1="40" x2="876" y2="40" stroke="#00f5ff" stroke-opacity="0.25" stroke-width="1" />
   <!-- Card 1 -->
   <g transform="translate(24, 52)">
     <rect width="270" height="138" rx="10" fill="#041220" stroke="#00f5ff" stroke-opacity="0.45" stroke-width="1.2" />
     <rect x="1" y="1" width="268" height="3" fill="#00f5ff" opacity="0.85" rx="2" />
     <text x="14" y="32" font-size="20">🏆</text>
-    <text x="44" y="24" fill="#00f5ff" font-family="Consolas, Fira Code, monospace" font-size="11.5" font-weight="bold">FULL-STACK MAESTRO</text>
-    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, Fira Code, monospace" font-size="9">TIER S // DIAMOND</text>
-    <text x="14" y="62" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">Architected & shipped 4+ production systems</text>
-    <text x="14" y="78" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">across React, Django, Node & Electron</text>
+    <text x="44" y="24" fill="#00f5ff" font-family="Consolas, monospace" font-size="11.5" font-weight="bold">FULL-STACK MAESTRO</text>
+    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, monospace" font-size="9">TIER S // DIAMOND</text>
+    <text x="14" y="62" fill="#cceeff" font-family="Consolas, monospace" font-size="10">Architected &amp; shipped 4+ production systems</text>
+    <text x="14" y="78" fill="#cceeff" font-family="Consolas, monospace" font-size="10">across React, Django, Node &amp; Electron</text>
     <rect x="14" y="98" width="242" height="22" rx="4" fill="#020a14" stroke="#00f5ff" stroke-opacity="0.35" />
-    <text x="135" y="113" text-anchor="middle" fill="#00f5ff" font-family="Consolas, Fira Code, monospace" font-size="9.5" font-weight="bold">4+ APPS DEPLOYED</text>
+    <text x="135" y="113" text-anchor="middle" fill="#00f5ff" font-family="Consolas, monospace" font-size="9.5" font-weight="bold">4+ APPS DEPLOYED</text>
   </g>
   <!-- Card 2 -->
   <g transform="translate(318, 52)">
     <rect width="270" height="138" rx="10" fill="#041220" stroke="#39ff14" stroke-opacity="0.45" stroke-width="1.2" />
     <rect x="1" y="1" width="268" height="3" fill="#39ff14" opacity="0.85" rx="2" />
     <text x="14" y="32" font-size="20">🤖</text>
-    <text x="44" y="24" fill="#39ff14" font-family="Consolas, Fira Code, monospace" font-size="11.5" font-weight="bold">AI SYSTEMS PIONEER</text>
-    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, Fira Code, monospace" font-size="9">TIER S // DIAMOND</text>
-    <text x="14" y="62" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">Integrated Google Gemini AI verification</text>
-    <text x="14" y="78" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">and mobile on-device TFLite ML models</text>
+    <text x="44" y="24" fill="#39ff14" font-family="Consolas, monospace" font-size="11.5" font-weight="bold">AI SYSTEMS PIONEER</text>
+    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, monospace" font-size="9">TIER S // DIAMOND</text>
+    <text x="14" y="62" fill="#cceeff" font-family="Consolas, monospace" font-size="10">Integrated Google Gemini AI verification</text>
+    <text x="14" y="78" fill="#cceeff" font-family="Consolas, monospace" font-size="10">and mobile on-device TFLite ML models</text>
     <rect x="14" y="98" width="242" height="22" rx="4" fill="#020a14" stroke="#39ff14" stroke-opacity="0.35" />
-    <text x="135" y="113" text-anchor="middle" fill="#39ff14" font-family="Consolas, Fira Code, monospace" font-size="9.5" font-weight="bold">GEMINI + TFLITE</text>
+    <text x="135" y="113" text-anchor="middle" fill="#39ff14" font-family="Consolas, monospace" font-size="9.5" font-weight="bold">GEMINI + TFLITE</text>
   </g>
   <!-- Card 3 -->
   <g transform="translate(612, 52)">
     <rect width="270" height="138" rx="10" fill="#041220" stroke="#ff007f" stroke-opacity="0.45" stroke-width="1.2" />
     <rect x="1" y="1" width="268" height="3" fill="#ff007f" opacity="0.85" rx="2" />
     <text x="14" y="32" font-size="20">🛡️</text>
-    <text x="44" y="24" fill="#ff007f" font-family="Consolas, Fira Code, monospace" font-size="11.5" font-weight="bold">CRYPTO GUARDIAN</text>
-    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, Fira Code, monospace" font-size="9">TIER A // GOLD</text>
-    <text x="14" y="62" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">Built military-grade encrypted storage vault</text>
-    <text x="14" y="78" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">with AES-256 Fernet, PBKDF2 & SHA-256</text>
+    <text x="44" y="24" fill="#ff007f" font-family="Consolas, monospace" font-size="11.5" font-weight="bold">CRYPTO GUARDIAN</text>
+    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, monospace" font-size="9">TIER A // GOLD</text>
+    <text x="14" y="62" fill="#cceeff" font-family="Consolas, monospace" font-size="10">Built military-grade encrypted storage vault</text>
+    <text x="14" y="78" fill="#cceeff" font-family="Consolas, monospace" font-size="10">with AES-256 Fernet, PBKDF2 &amp; SHA-256</text>
     <rect x="14" y="98" width="242" height="22" rx="4" fill="#020a14" stroke="#ff007f" stroke-opacity="0.35" />
-    <text x="135" y="113" text-anchor="middle" fill="#ff007f" font-family="Consolas, Fira Code, monospace" font-size="9.5" font-weight="bold">AES-256 • PBKDF2</text>
+    <text x="135" y="113" text-anchor="middle" fill="#ff007f" font-family="Consolas, monospace" font-size="9.5" font-weight="bold">AES-256 - PBKDF2</text>
   </g>
   <!-- Card 4 -->
   <g transform="translate(24, 208)">
     <rect width="270" height="138" rx="10" fill="#041220" stroke="#ffd700" stroke-opacity="0.45" stroke-width="1.2" />
     <rect x="1" y="1" width="268" height="3" fill="#ffd700" opacity="0.85" rx="2" />
     <text x="14" y="32" font-size="20">📱</text>
-    <text x="44" y="24" fill="#ffd700" font-family="Consolas, Fira Code, monospace" font-size="11.5" font-weight="bold">NATIVE ARCHITECT</text>
-    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, Fira Code, monospace" font-size="9">TIER A // GOLD</text>
-    <text x="14" y="62" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">Shipped bilingual Android Kotlin application</text>
-    <text x="14" y="78" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">with real-time camera photo identification</text>
+    <text x="44" y="24" fill="#ffd700" font-family="Consolas, monospace" font-size="11.5" font-weight="bold">NATIVE ARCHITECT</text>
+    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, monospace" font-size="9">TIER A // GOLD</text>
+    <text x="14" y="62" fill="#cceeff" font-family="Consolas, monospace" font-size="10">Shipped bilingual Android Kotlin application</text>
+    <text x="14" y="78" fill="#cceeff" font-family="Consolas, monospace" font-size="10">with real-time camera photo identification</text>
     <rect x="14" y="98" width="242" height="22" rx="4" fill="#020a14" stroke="#ffd700" stroke-opacity="0.35" />
-    <text x="135" y="113" text-anchor="middle" fill="#ffd700" font-family="Consolas, Fira Code, monospace" font-size="9.5" font-weight="bold">KOTLIN ANDROID</text>
+    <text x="135" y="113" text-anchor="middle" fill="#ffd700" font-family="Consolas, monospace" font-size="9.5" font-weight="bold">KOTLIN ANDROID</text>
   </g>
   <!-- Card 5 -->
   <g transform="translate(318, 208)">
     <rect width="270" height="138" rx="10" fill="#041220" stroke="#00f5ff" stroke-opacity="0.45" stroke-width="1.2" />
     <rect x="1" y="1" width="268" height="3" fill="#00f5ff" opacity="0.85" rx="2" />
     <text x="14" y="32" font-size="20">⚡</text>
-    <text x="44" y="24" fill="#00f5ff" font-family="Consolas, Fira Code, monospace" font-size="11.5" font-weight="bold">REALTIME SPECIALIST</text>
-    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, Fira Code, monospace" font-size="9">TIER A // GOLD</text>
-    <text x="14" y="62" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">Engineered zero-latency WebSocket channels</text>
-    <text x="14" y="78" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">with Django Channels, Redis & pub/sub</text>
+    <text x="44" y="24" fill="#00f5ff" font-family="Consolas, monospace" font-size="11.5" font-weight="bold">REALTIME SPECIALIST</text>
+    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, monospace" font-size="9">TIER A // GOLD</text>
+    <text x="14" y="62" fill="#cceeff" font-family="Consolas, monospace" font-size="10">Engineered zero-latency WebSocket channels</text>
+    <text x="14" y="78" fill="#cceeff" font-family="Consolas, monospace" font-size="10">with Django Channels, Redis &amp; pub/sub</text>
     <rect x="14" y="98" width="242" height="22" rx="4" fill="#020a14" stroke="#00f5ff" stroke-opacity="0.35" />
-    <text x="135" y="113" text-anchor="middle" fill="#00f5ff" font-family="Consolas, Fira Code, monospace" font-size="9.5" font-weight="bold">WEBSOCKETS CHANNELS</text>
+    <text x="135" y="113" text-anchor="middle" fill="#00f5ff" font-family="Consolas, monospace" font-size="9.5" font-weight="bold">WEBSOCKETS CHANNELS</text>
   </g>
   <!-- Card 6 -->
   <g transform="translate(612, 208)">
     <rect width="270" height="138" rx="10" fill="#041220" stroke="#39ff14" stroke-opacity="0.45" stroke-width="1.2" />
     <rect x="1" y="1" width="268" height="3" fill="#39ff14" opacity="0.85" rx="2" />
     <text x="14" y="32" font-size="20">🧾</text>
-    <text x="44" y="24" fill="#39ff14" font-family="Consolas, Fira Code, monospace" font-size="11.5" font-weight="bold">FINTECH BUILDER</text>
-    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, Fira Code, monospace" font-size="9">TIER A // GOLD</text>
-    <text x="14" y="62" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">Automated GST compliance, GSTR-1/3B filing</text>
-    <text x="14" y="78" fill="#cceeff" font-family="Consolas, Fira Code, monospace" font-size="10">and dynamic UPI payment settlement</text>
+    <text x="44" y="24" fill="#39ff14" font-family="Consolas, monospace" font-size="11.5" font-weight="bold">FINTECH BUILDER</text>
+    <text x="44" y="38" fill="#ffffff" opacity="0.65" font-family="Consolas, monospace" font-size="9">TIER A // GOLD</text>
+    <text x="14" y="62" fill="#cceeff" font-family="Consolas, monospace" font-size="10">Automated GST compliance, GSTR-1/3B filing</text>
+    <text x="14" y="78" fill="#cceeff" font-family="Consolas, monospace" font-size="10">and dynamic UPI payment settlement</text>
     <rect x="14" y="98" width="242" height="22" rx="4" fill="#020a14" stroke="#39ff14" stroke-opacity="0.35" />
-    <text x="135" y="113" text-anchor="middle" fill="#39ff14" font-family="Consolas, Fira Code, monospace" font-size="9.5" font-weight="bold">GST & DYNAMIC UPI</text>
+    <text x="135" y="113" text-anchor="middle" fill="#39ff14" font-family="Consolas, monospace" font-size="9.5" font-weight="bold">GST &amp; DYNAMIC UPI</text>
   </g>
 </svg>
